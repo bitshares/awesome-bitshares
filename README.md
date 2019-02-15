@@ -25,6 +25,7 @@
     - [JavaScript Libraries](#javascript-library)
     - [Python Libraries](#python-library)
     - [Java Libraries](#java-library)
+    - [Tools and Scripts](#tools-and-scripts)
 - [Projects Using the BitShares Blockchain](#projects-using-the-bitshares-blockchain)
    - [Decentralized Exchanges](#decentralized-exchanges)
    - [Services](#services)
@@ -142,6 +143,12 @@ research!
 #### Python Libraries
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library
+
+#### Tools and Scripts
+
+* [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts
+* [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for
+  exporting and analyzing trading history
 
 ## Projects Using the BitShares Blockchain
 
