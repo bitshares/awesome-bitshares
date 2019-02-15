@@ -150,23 +150,24 @@ do your own research!
 
 ### Decentralized Exchanges
 
-* [CryptoBridge](https://crypto-bridge.org/)
-* [EasyDEX](https://exchange.easydex.net/)
-* [SparkDEX](https://dex.bitspark.io/)
-* [Rudex](https://rudex.org/)
-* [GDEX](https://www.gdex.io/)
-* [OpenLedger](https://openledger.io/welcome)
-* [DEVX](https://deviantcoin.io/)
-* [Citadel](https://citadel.li/)
-* [Deex](https://www.deex.exchange/)
-* [EscoDex](https://www.escodex.com/)
-* [XBTS](https://xbts.io/)
-* [EUBX](https://eubx.io/)
-* [HelloBTS](https://www.hellobts.com/)
 * [BTSabc](http://www.btsabc.org/)
+* [Citadel](https://citadel.li/)
+* [CryptoBridge](https://crypto-bridge.org/)
 * [Cryptocean](https://cryptocean.io/)
 * [Cryptrade](https://cryptrade.io/)
+* [DEVX](https://deviantcoin.io/)
+* [Deex](https://www.deex.exchange/)
 * [DynX](https://www.dynx.io/)
+* [EUBX](https://eubx.io/)
+* [EasyDEX](https://exchange.easydex.net/)
+* [EscoDex](https://www.escodex.com/)
+* [GDEX](https://www.gdex.io/)
+* [HelloBTS](https://www.hellobts.com/)
+* [OpenLedger](https://openledger.io/welcome)
+* [Rudex](https://rudex.org/)
+* [SparkDEX](https://dex.bitspark.io/)
+* [Winex](https://exchange.winex.pro/)
+* [XBTS](https://xbts.io/)
 
 ### Services
 
