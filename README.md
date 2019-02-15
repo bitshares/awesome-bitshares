@@ -1,8 +1,8 @@
-# Awesome BitShares Blockchain [![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bitshares/awesome-bitshares)
+# Awesome BitShares Blockchain [![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/xeroc/awesome-bitshares)
 
-[![GitHub forks](https://img.shields.io/github/forks/bitshares/awesome-bitshares.svg?style=social&label=Fork)](https://github.com/bitshares/awesome-bitshares)
-[![GitHub stars](https://img.shields.io/github/stars/bitshares/awesome-bitshares.svg?style=social&label=Star)](https://github.com/bitshares/awesome-bitshares)
-[![GitHub watchers](https://img.shields.io/github/watchers/bitshares/awesome-bitshares.svg?style=social&label=Watch)](https://github.com/bitshares/awesome-bitshares)
+[![GitHub forks](https://img.shields.io/github/forks/xeroc/awesome-bitshares.svg?style=social&label=Fork)](https://github.com/xeroc/awesome-bitshares)
+[![GitHub stars](https://img.shields.io/github/stars/xeroc/awesome-bitshares.svg?style=social&label=Star)](https://github.com/xeroc/awesome-bitshares)
+[![GitHub watchers](https://img.shields.io/github/watchers/xeroc/awesome-bitshares.svg?style=social&label=Watch)](https://github.com/xeroc/awesome-bitshares)
 
 ![](https://bitshares.org/assets/img/logo.svg)
 
