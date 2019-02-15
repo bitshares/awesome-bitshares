@@ -123,8 +123,8 @@ research!
 
 #### Kibana
 
-* [bitshares-kibana.info](bitshares-kibana.info)
-* [kibana.bitshares.eu](kibana.bitshares.eu)
+* [bitshares-kibana.info](https://bitshares-kibana.info)
+* [kibana.bitshares.eu](https://kibana.bitshares.eu)
 
 ### Libraries
 #### C++ Libraries
