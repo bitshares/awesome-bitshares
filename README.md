@@ -52,7 +52,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Official Resources
 
-* [BitShares Blockchain Foundation](http://bitshares.foundation)
+* [BitShares Blockchain Foundation](https://bitshares.foundation)
 * [BitShares Blockchain Project Homepage](http://bitshares.foundation)
 
 ### Documentation
@@ -162,7 +162,6 @@ do your own research!
 * [EscoDex](https://www.escodex.com/)
 * [XBTS](https://xbts.io/)
 * [EUBX](https://eubx.io/)
-* [Winex](https://exchange.winex.pro/)
 * [HelloBTS](https://www.hellobts.com/)
 * [BTSabc](http://www.btsabc.org/)
 * [Cryptocean](https://cryptocean.io/)
@@ -175,7 +174,6 @@ do your own research!
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
 * [BitSpark](https://www.bitspark.io/)
-* [Bondon Blockchain](https://bondonblockchain.com/)
 * [PalmPay](https://PalmPay.io)
 * [Payger](https://payger.com/)
 * [Quintric](https://quintric.com/)
@@ -212,7 +210,6 @@ foundations:
 * [Dascoin](https://dascoin.com/)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
-* [LBTC](http://lightningbitcoin.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
 * [SEER]()
