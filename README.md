@@ -136,7 +136,8 @@ research!
 #### JavaScript Libraries
 
 * [bitsharesjs](https://github.com/bitshares/bitsharesjs) - used by reference wallet
-* [vuex-bitshares](https://github.com/bitshares/vuex-bitshares) - used by Community UI web wallet
+* [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library
+* [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI
 
 #### Python Libraries
 
