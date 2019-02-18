@@ -158,7 +158,6 @@ do your own research!
 * [CryptoBridge](https://crypto-bridge.org/)
 * [Cryptocean](https://cryptocean.io/)
 * [Cryptrade](https://cryptrade.io/)
-* [DEVX](https://deviantcoin.io/)
 * [Deex](https://www.deex.exchange/)
 * [DynX](https://www.dynx.io/)
 * [EUBX](https://eubx.io/)
