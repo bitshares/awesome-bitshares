@@ -57,32 +57,32 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Documentation
 
-* [How.BitShares.works Documentation](http://how.bitshares.works) - documentation maintained by the community, hosted by github
-* [docs.bitshares.eu](http://docs.bitshares.eu) [deprecated]
+* [How.BitShares.works Documentation](http://how.bitshares.works) - The primary documentation, maintained by the community, hosted by github.
+* [docs.bitshares.eu](http://docs.bitshares.eu) - The original, worker funded documentation site.
 
 ### Community
 
-* [Forums](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013)
-* [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the STEEM blockchain
-* [Whaleshares#bitshares](https://whaleshares.io/trending/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain
-* [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter
-* [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub
+* [Forums](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013).
+* [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the STEEM blockchain.
+* [Whaleshares#bitshares](https://whaleshares.io/trending/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
+* [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
+* [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
-  * [BitSharesDEX](https://t.me/BitSharesDEX) - General discussions
-  * [BitShares Community](https://t.me/bitshares_community) - General discussions
-  * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading
-  * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development
-  * [BeetApp](https://t.me/beetapp) - Focus on beetapp development
-  * [DEXBOTbts](https://t.me/DEXBOTbts) - Focus on DEXBot development
-  * Committee (invite only)
-  * Developers (invite only)
-  * Witnesses (invite only)
+  * [BitSharesDEX](https://t.me/BitSharesDEX) - General discussions on Telegram.
+  * [BitShares Community](https://t.me/bitshares_community) - Even more general discussions.
+  * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
+  * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
+  * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
+  * [DEXBOTbts](https://t.me/DEXBOTbts) - Focus on DEXBot development.
+  * Committee - (invite only) For committee members.
+  * Developers - (invite only) For developers.
+  * Witnesses - (invite only) For block producers.
 
 ### Conferences
 
-* [Bitfest 2018](https://steemit.com/@bitfest) - in Amsterdam, Netherlands
-* [Decentralized 2018 - BitShares as Platinum Sponsor](https://www.decentralized.com/blog/2018/12/02/decentralized-2018-day-1-annemieke-dirkes-bitshares/) - In Athens, Greece
-* [Graphene DevCon 2018](https://steemit.com/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China
+* [Bitfest 2018](https://steemit.com/@bitfest) - in Amsterdam, Netherlands.
+* [Decentralized 2018 - BitShares as Platinum Sponsor](https://www.decentralized.com/blog/2018/12/02/decentralized-2018-day-1-annemieke-dirkes-bitshares/) - In Athens, Greece.
+* [Graphene DevCon 2018](https://steemit.com/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
 
 ## Utilities
 
@@ -97,10 +97,10 @@ wallet.bitshares.org.
 
 ### Opensource Wallets
 
-* [BTS++](http://btspp.io/) - native Android/iOS app
-* [Beet](https://github.com/bitshares/beet/) - standalone web application
-* [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS)
-* [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS)
+* [BTS++](http://btspp.io/) - native Android/iOS app.
+* [Beet](https://github.com/bitshares/beet/) - standalone web application.
+* [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
+* [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
 
 ### Hosted Wallets
 
@@ -108,19 +108,19 @@ wallet.bitshares.org.
 private account credentials and thus, your funds may be at risk. Do your own
 research!
 
-* [BiTSy](http://www.BiTSy-wallet.com) - Android app
-* [Magic Wallet](https://www.magicw.net/) - Android/iOS app
-* [PalmPay](https://palmpay.io) - Android app
-* [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized)
-* [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet
+* [BiTSy](http://www.BiTSy-wallet.com) - Android app.
+* [Magic Wallet](https://www.magicw.net/) - Android/iOS app.
+* [PalmPay](https://palmpay.io) - Android app.
+* [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
+* [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet.
 
 ### Blockchain Explorers
 
-* [BTS.ai](http://bts.ai) - closed source
-* [Open-Explorer.io](https://open-explorer.io/) - open source code base
-* [bithares-Explorer.io](https://bitshares-explorer.io/) - based on open-explorer, closed source
-* [bitsharescan.com](https://bitsharescan.com) - closed source
-* [cryptofresh.com](http://cryptofresh.com) - closed source, operational since 2015
+* [BTS.ai](http://bts.ai) - closed source.
+* [Open-Explorer.io](https://open-explorer.io/) - open source code base.
+* [bithares-Explorer.io](https://bitshares-explorer.io/) - based on open-explorer, closed source.
+* [bitsharescan.com](https://bitsharescan.com) - closed source.
+* [cryptofresh.com](http://cryptofresh.com) - closed source, operational since 2015.
 
 #### Kibana
 
@@ -130,26 +130,25 @@ research!
 ### Libraries
 #### C++ Libraries
 
-* [bitshares-core](https://github.com/bitshares/bitshares-core) - reference code base that operates the blockchain
+* [bitshares-core](https://github.com/bitshares/bitshares-core) - reference code base that operates the blockchain.
 
 #### JavaScript Libraries
 
-* [bitsharesjs](https://github.com/bitshares/bitsharesjs) - used by reference wallet
-* [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library
-* [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI
+* [bitsharesjs](https://github.com/bitshares/bitsharesjs) - used by reference wallet.
+* [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library.
+* [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI.
 
 #### Python Libraries
 
-* [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library
+* [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
 
 #### Tools and Scripts
 
 * [DEXBot](http://dexbot.info) - Market Maker bot
-* [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts
-* [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for
-  exporting and analyzing trading history
+* [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
+* [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
 * [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
-* [Uptick](http://uptick.rocks) - command line tool
+* [Uptick](http://uptick.rocks) - command line tool.
 
 ## Projects Using the BitShares Blockchain
 
@@ -227,7 +226,6 @@ foundations:
 * [VIT](https://vicetoken.com/)
 * [Whaleshares](https://whaleshares.io/)
 * [Yoyow](https://yoyow.org/index_en.html)
-
 
 # License
 
