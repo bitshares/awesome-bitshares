@@ -8,6 +8,8 @@
 
 > A curated list of awesome resources for the BitShars Blockchain
 
+## Contents
+
 - [Awesome BitShares Blockchain](#awesome-bitshares-blockchain)
   - [Approvals and Mandates](#approvals-and-mandates)
   - [Official Resources](#official-resources)
