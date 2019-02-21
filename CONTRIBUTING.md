@@ -1,5 +1,11 @@
 # Contribution Guidelines
 
+# Preparations
+
+Please read the [awesome manifest](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+
+# Pull Requests
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
