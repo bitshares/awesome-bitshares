@@ -25,12 +25,12 @@
     - [JavaScript Libraries](#javascript-library)
     - [Python Libraries](#python-library)
     - [Java Libraries](#java-library)
+    - [Tools and Scripts](#tools-and-scripts)
 - [Projects Using the BitShares Blockchain](#projects-using-the-bitshares-blockchain)
    - [Decentralized Exchanges](#decentralized-exchanges)
    - [Services](#services)
    - [Legal](#legal)
    - [Games](#games)
-   - [Trading](#trading)
    - [Pure Gateways](#pure-gateways)
    - [Others](#others)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
@@ -101,7 +101,6 @@ wallet.bitshares.org.
 * [Beet](https://github.com/bitshares/beet/) - standalone web application
 * [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS)
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS)
-* [Uptick](http://uptick.rocks) - command line tool
 
 ### Hosted Wallets
 
@@ -142,6 +141,15 @@ research!
 #### Python Libraries
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library
+
+#### Tools and Scripts
+
+* [DEXBot](http://dexbot.info) - Market Maker bot
+* [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts
+* [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for
+  exporting and analyzing trading history
+* [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
+* [Uptick](http://uptick.rocks) - command line tool
 
 ## Projects Using the BitShares Blockchain
 
@@ -191,11 +199,6 @@ do your own research!
 
 * [BitsFarm](https://bits.farm/en/)
 * [Nowcoin](https://nowcoingame.com/)
-
-### Trading
-
-* [DexBot](http://dexbot.info)
-* [stakemachine](http://stakemachine.com) [deprecated]
 
 ### Pure Gateways
 
