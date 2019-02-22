@@ -100,6 +100,7 @@ wallet.bitshares.org.
 ### Opensource Wallets
 
 * [BTS++](http://btspp.io/) - native Android/iOS app.
+* [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map.
 * [Beet](https://github.com/bitshares/beet/) - standalone web application.
 * [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
@@ -110,9 +111,7 @@ wallet.bitshares.org.
 private account credentials and thus, your funds may be at risk. Do your own
 research!
 
-* [BiTSy](http://www.BiTSy-wallet.com) - Android app.
 * [Magic Wallet](https://www.magicw.net/) - Android/iOS app.
-* [PalmPay](https://palmpay.io) - Android app.
 * [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
 * [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet.
 
@@ -133,6 +132,10 @@ research!
 #### C++ Libraries
 
 * [bitshares-core](https://github.com/bitshares/bitshares-core) - reference code base that operates the blockchain.
+
+#### Java Libraries
+
+* [graphenej](https://github.com/Agorise/graphenej) - Graphene Java lib for mobile app Developers.
 
 #### JavaScript Libraries
 
@@ -186,7 +189,7 @@ do your own research!
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
 * [BitSpark](https://www.bitspark.io/)
-* [PalmPay](https://PalmPay.io)
+* [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares platform
 * [Payger](https://payger.com/)
 * [Quintric](https://quintric.com/)
 * [Tatch Capital](https://tatchcapital.com/)
