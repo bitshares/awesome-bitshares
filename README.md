@@ -1,13 +1,12 @@
 # Awesome BitShares Blockchain  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="logo.svg" alt="BitShares Blockchain" align="right" width="120px">
-
 [![GitHub forks](https://img.shields.io/github/forks/bitshares/awesome-bitshares.svg?style=social&label=Fork)](https://github.com/bitshares/awesome-bitshares)
 [![GitHub stars](https://img.shields.io/github/stars/bitshares/awesome-bitshares.svg?style=social&label=Star)](https://github.com/bitshares/awesome-bitshares)
 [![GitHub watchers](https://img.shields.io/github/watchers/bitshares/awesome-bitshares.svg?style=social&label=Watch)](https://github.com/bitshares/awesome-bitshares)
 
 > A curated list of awesome BitShares resources for users and developers.
 
+<img src="logo.svg" alt="BitShares Blockchain" align="right" width="400px">
 <p>
  The BitShares Blockchain is an industrial-grade decentralized platform
  built for high-performance financial smart contracts. It represents the
