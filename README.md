@@ -1,12 +1,24 @@
-# Awesome BitShares Blockchain [![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bitshares/awesome-bitshares)
+# Awesome BitShares Blockchain  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<img src="logo.svg" alt="BitShares Blockchain" align="right" width="120px">
 
 [![GitHub forks](https://img.shields.io/github/forks/bitshares/awesome-bitshares.svg?style=social&label=Fork)](https://github.com/bitshares/awesome-bitshares)
 [![GitHub stars](https://img.shields.io/github/stars/bitshares/awesome-bitshares.svg?style=social&label=Star)](https://github.com/bitshares/awesome-bitshares)
 [![GitHub watchers](https://img.shields.io/github/watchers/bitshares/awesome-bitshares.svg?style=social&label=Watch)](https://github.com/bitshares/awesome-bitshares)
 
-![](https://bitshares.org/assets/img/logo.svg)
+> A curated list of awesome BitShares resources for users and developers.
 
-> A curated list of awesome resources for the BitShars Blockchain
+<p>
+ The BitShares Blockchain is an industrial-grade decentralized platform
+ built for high-performance financial smart contracts. It represents the
+ first decentralized autonomous community that lets its core token
+ holder decide on its future direction and products.
+ In contrast to other smart contracting platform, its strict focus on
+ security and reliabilty has allowed the BitShares Blockchain to become the
+ largest host of decentralized exchanges.
+</p>
+
+<p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
 
 ## Contents
 
@@ -22,12 +34,12 @@
   - [Opensource Wallets](#opensource-wallets)
   - [Hosted Wallets](#hosted-wallets)
   - [Blockchain Explorers](#blockchain-explorers)
-  - [Libraries](#libraries)
-    - [C++ Libraries](#c-libraries)
-    - [Java Libraries](#java-libraries)
-    - [JavaScript Libraries](#javascript-libraries)
-    - [Python Libraries](#python-libraries)
-    - [Tools and Scripts](#tools-and-scripts)
+- [Libraries](#libraries)
+  - [C++ Libraries](#c-libraries)
+  - [Java Libraries](#java-libraries)
+  - [JavaScript Libraries](#javascript-libraries)
+  - [Python Libraries](#python-libraries)
+  - [Tools and Scripts](#tools-and-scripts)
 - [Projects Using the BitShares Blockchain](#projects-using-the-bitshares-blockchain)
    - [Decentralized Exchanges](#decentralized-exchanges)
    - [Services](#services)
@@ -128,8 +140,11 @@ research!
 * [bitshares-kibana.info](https://bitshares-kibana.info)
 * [kibana.bitshares.eu](https://kibana.bitshares.eu)
 
-### Libraries
-#### C++ Libraries
+## Libraries
+
+Libraries capable of communicating with the BitShares blockchain.
+
+### C++ Libraries
 
 * [bitshares-core](https://github.com/bitshares/bitshares-core) - reference code base that operates the blockchain.
 
@@ -137,17 +152,17 @@ research!
 
 * [graphenej](https://github.com/Agorise/graphenej) - Graphene Java lib for mobile app Developers.
 
-#### JavaScript Libraries
+### JavaScript Libraries
 
 * [bitsharesjs](https://github.com/bitshares/bitsharesjs) - used by reference wallet.
 * [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library.
 * [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI.
 
-#### Python Libraries
+### Python Libraries
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
 
-#### Tools and Scripts
+### Tools and Scripts
 
 * [DEXBot](http://dexbot.info) - Market Maker bot
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
@@ -235,3 +250,8 @@ foundations:
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+To the extent possible under law, [Dr.-Ing. Fabian
+Schuh](https://github.com/xeroc) has waived all copyright and related or
+neighboring rights to this work.
