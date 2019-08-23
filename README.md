@@ -111,7 +111,7 @@ wallet.bitshares.org.
 ### Opensource Wallets
 
 * [BTS++](http://btspp.io/) - native Android/iOS app.
-* [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map.
+* [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Beet](https://github.com/bitshares/beet/) - standalone web application.
 * [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
@@ -203,7 +203,7 @@ do your own research!
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
 * [BitSpark](https://www.bitspark.io/)
-* [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares platform.
+* [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Payger](https://payger.com/)
 * [Quintric](https://quintric.com/)
 * [Tatch Capital](https://tatchcapital.com/)
