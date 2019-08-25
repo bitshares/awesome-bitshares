@@ -177,7 +177,7 @@ quality standards, limited resources prevent them from keeping this list
 up-to-date with respect to their credibility. Use this list at your own risk and
 do your own research!
 
-### Decentralized Exchanges
+### Exchanges
 
 * [BTSabc](http://www.btsabc.org/)
 * [Citadel](https://citadel.li/)
@@ -191,6 +191,7 @@ do your own research!
 * [EscoDex](https://www.escodex.com/)
 * [GDEX](https://www.gdex.io/)
 * [HelloBTS](https://www.hellobts.com/)
+* [Lykke](https://www.lykke.com/)
 * [OpenLedger](https://openledger.io/welcome)
 * [Rudex](https://rudex.org/)
 * [SparkDEX](https://dex.bitspark.io/)
@@ -204,7 +205,6 @@ do your own research!
 * [Bit20](http://www.bittwenty.com/)
 * [BitSpark](https://www.bitspark.io/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
-* [Payger](https://payger.com/)
 * [Quintric](https://quintric.com/)
 * [Tatch Capital](https://tatchcapital.com/)
 * [XOV](https://www.xov.io/)
@@ -218,9 +218,11 @@ do your own research!
 * [BitsFarm](https://bits.farm/en/)
 * [Nowcoin](https://nowcoingame.com/)
 
-### Pure Gateways
+### Bridges
 
 * [BlockTrades](https://blocktrades.us/)
+* [GoDex](https://godex.io/)
+* [StealthEx](https://stealthex.io/)
 
 ## Other Blockchains in the BitShares Family
 
