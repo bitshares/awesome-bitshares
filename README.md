@@ -111,7 +111,7 @@ wallet.bitshares.org.
 ### Opensource Wallets
 
 * [BTS++](http://btspp.io/) - native Android/iOS app.
-* [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map.
+* [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Beet](https://github.com/bitshares/beet/) - standalone web application.
 * [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
@@ -177,7 +177,7 @@ quality standards, limited resources prevent them from keeping this list
 up-to-date with respect to their credibility. Use this list at your own risk and
 do your own research!
 
-### Decentralized Exchanges
+### Exchanges
 
 * [BTSabc](http://www.btsabc.org/)
 * [Citadel](https://citadel.li/)
@@ -191,6 +191,7 @@ do your own research!
 * [EscoDex](https://www.escodex.com/)
 * [GDEX](https://www.gdex.io/)
 * [HelloBTS](https://www.hellobts.com/)
+* [Lykke](https://www.lykke.com/)
 * [OpenLedger](https://openledger.io/welcome)
 * [Rudex](https://rudex.org/)
 * [SparkDEX](https://dex.bitspark.io/)
@@ -203,8 +204,7 @@ do your own research!
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
 * [BitSpark](https://www.bitspark.io/)
-* [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares platform.
-* [Payger](https://payger.com/)
+* [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
 * [Tatch Capital](https://tatchcapital.com/)
 * [XOV](https://www.xov.io/)
@@ -218,9 +218,11 @@ do your own research!
 * [BitsFarm](https://bits.farm/en/)
 * [Nowcoin](https://nowcoingame.com/)
 
-### Pure Gateways
+### Bridges
 
 * [BlockTrades](https://blocktrades.us/)
+* [GoDex](https://godex.io/)
+* [StealthEx](https://stealthex.io/)
 
 ## Other Blockchains in the BitShares Family
 
