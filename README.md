@@ -40,7 +40,7 @@
   - [Python Libraries](#python-libraries)
   - [Tools and Scripts](#tools-and-scripts)
 - [Projects Using the BitShares Blockchain](#projects-using-the-bitshares-blockchain)
-   - [Decentralized Exchanges](#decentralized-exchanges)
+   - [Exchanges (DEx/CEx)](#exchanges)
    - [Services](#services)
    - [Legal](#legal)
    - [Games](#games)
@@ -197,6 +197,7 @@ do your own research!
 * [SparkDEX](https://dex.bitspark.io/)
 * [Winex](https://exchange.winex.pro/)
 * [XBTS](https://xbts.io/)
+* [ZBG](https://zbg.com/)
 
 ### Services
 
