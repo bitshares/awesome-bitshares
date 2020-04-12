@@ -194,7 +194,8 @@ do your own research!
 * [Lykke](https://www.lykke.com/)
 * [OpenLedger](https://openledger.io/welcome)
 * [Rudex](https://rudex.org/)
-* [SparkDEX](https://dex.bitspark.io/)
+* [SparkDEX](https://dex.bitspark.io/) 
+* [WallDEX](https://w.walldex.pro/) 
 * [Winex](https://exchange.winex.pro/)
 * [XBTS](https://xbts.io/)
 
@@ -221,7 +222,8 @@ do your own research!
 ### Bridges
 
 * [BlockTrades](https://blocktrades.us/)
-* [GoDex](https://godex.io/)
+* [GoDex](https://godex.io/) 
+* [SimpleSwap](https://simpleswap.io/) 
 * [StealthEx](https://stealthex.io/)
 
 ## Other Blockchains in the BitShares Family
