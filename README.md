@@ -76,8 +76,8 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 ### Community
 
 * [Forums](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013).
-* [Hive#bitshares](https://hive.blog/trending/bitshares) - #bitshares tagged posts on the STEEM blockchain.
-* [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the STEEM blockchain.
+* [Hive#bitshares](https://hive.blog/trending/bitshares) - #bitshares tagged posts on the Hive blockchain.
+* [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the Steem blockchain.
 * [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
@@ -94,9 +94,9 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Conferences
 
-* [Bitfest 2018](https://steemit.com/@bitfest) - in Amsterdam, Netherlands.
+* [Bitfest 2018](https://hive.blog/@bitfest) - in Amsterdam, Netherlands.
 * [Decentralized 2018 - BitShares as Platinum Sponsor](https://www.decentralized.com/blog/2018/12/02/decentralized-2018-day-1-annemieke-dirkes-bitshares/) - In Athens, Greece.
-* [Graphene DevCon 2018](https://steemit.com/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
+* [Graphene DevCon 2018](https://hive.blog/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
 
 ## Utilities
 
