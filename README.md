@@ -77,7 +77,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [Forums](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013).
 * [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the STEEM blockchain.
-* [Whaleshares#bitshares](https://whaleshares.io/trending/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
+* [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
@@ -136,8 +136,7 @@ research!
 
 #### Kibana
 
-* [bitshares-kibana.info](https://bitshares-kibana.info)
-* [kibana.bitshares.eu](https://kibana.bitshares.eu)
+* [kibana.bitshares.eu Down for maint.]()
 
 ## Libraries
 
@@ -183,20 +182,16 @@ do your own research!
 * [Citadel](https://citadel.li/)
 * [Cryptocean](https://cryptocean.io/)
 * [Cryptrade](https://cryptrade.io/)
-* [DynX](https://www.dynx.io/)
-* [EUBX](https://eubx.io/)
 * [EscoDex](https://www.escodex.com/)
 * [GDEX](https://www.gdex.io/)
 * [HelloBTS](https://www.hellobts.com/)
 * [Lykke](https://www.lykke.com/)
 * [OpenLedger](https://openledger.io/welcome)
 * [Rudex](https://rudex.org/)
-* [Winex](https://exchange.winex.pro/)
 * [XBTS](https://xbts.io/)
 
 ### Services
 
-* [AlgoWave](https://www.algowave.io/)
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
@@ -210,7 +205,6 @@ do your own research!
 
 ### Games
 
-* [BitsFarm](https://bits.farm/en/)
 * [Nowcoin](https://nowcoingame.com/)
 
 ### Bridges
