@@ -183,7 +183,7 @@ do your own research!
 * [GDEX](https://www.gdex.io/)
 * [OpenLedger](https://openledger.io/welcome)
 * [Rudex](https://rudex.org/)
-* [WallDEX](https://w.walldex.pro/) 
+* [WALLDEX](https://w.walldex.pro/) 
 * [XBTS](https://xbts.io/)
 
 ### Services
