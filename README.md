@@ -180,24 +180,20 @@ do your own research!
 
 * [BTSabc](http://www.btsabc.org/)
 * [Citadel](https://citadel.li/)
-* [CryptoBridge](https://crypto-bridge.org/)
 * [Cryptocean](https://cryptocean.io/)
 * [Cryptrade](https://cryptrade.io/)
-* [EasyDEX](https://exchange.easydex.net/)
 * [EscoDex](https://www.escodex.com/)
 * [GDEX](https://www.gdex.io/)
 * [HelloBTS](https://www.hellobts.com/)
 * [Lykke](https://www.lykke.com/)
 * [OpenLedger](https://openledger.io/welcome)
 * [Rudex](https://rudex.org/)
-* [SparkDEX](https://dex.bitspark.io/)
 * [XBTS](https://xbts.io/)
 
 ### Services
 
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
-* [BitSpark](https://www.bitspark.io/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
 * [Tatch Capital](https://tatchcapital.com/)
@@ -215,6 +211,7 @@ do your own research!
 
 * [BlockTrades](https://blocktrades.us/)
 * [GoDex](https://godex.io/)
+* [SimpleSwap](https://simpleswap.io/)
 * [StealthEx](https://stealthex.io/)
 
 ## Other Blockchains in the BitShares Family
@@ -229,14 +226,14 @@ foundations:
 * [Dascoin](https://dascoin.com/)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
+* [Hive](https://peakd.com/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
-* [SEER]()
 * [SOUNDAC](https://soundac.io/)
 * [Scorum](https://scorumcoins.com/en-us/)
 * [Serey](https://serey.io/)
 * [Smoke Network](https://smoke.network/)
-* [Steemit](https://steemit.com/)
+* [Steem](https://steempeak.com/)
 * [VIT](https://vicetoken.com/)
 * [Whaleshares](https://whaleshares.io/)
 * [Yoyow](https://yoyow.org/index_en.html)
