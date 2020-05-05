@@ -217,7 +217,6 @@ foundations:
 
 * [Crypviser](https://crypviser.network/)
 * [Cybex](https://cybex.io/en)
-* [DBXChain](https://www.dbx.one/)
 * [Dascoin](https://dascoin.com/)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
