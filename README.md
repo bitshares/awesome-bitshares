@@ -161,6 +161,10 @@ Libraries capable of communicating with the BitShares blockchain.
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
 
+### PHP Libraries
+
+* [bitshares-php](https://github.com/Codaone/bitshares-php) - A php library, for reading bitshares blockchain
+
 ### Tools and Scripts
 
 * [DEXBot](https://dexbot.info) - Market Maker bot
