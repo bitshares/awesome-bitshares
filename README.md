@@ -40,11 +40,11 @@
   - [Python Libraries](#python-libraries)
   - [Tools and Scripts](#tools-and-scripts)
 - [Projects Using the BitShares Blockchain](#projects-using-the-bitshares-blockchain)
-   - [Decentralized Exchanges](#decentralized-exchanges)
+   - [Exchanges](#exchanges)
+   - [Bridges](#bridges)
    - [Services](#services)
    - [Legal](#legal)
    - [Games](#games)
-   - [Pure Gateways](#pure-gateways)
    - [Others](#others)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
 
@@ -185,11 +185,17 @@ do your own research!
 ### Exchanges
 
 * [Citadel](https://citadel.li/)
-* [GDEX](https://www.gdex.io/)
-* [OpenLedger](https://openledger.io/welcome)
+* [GDEX](https://www.gdex.io/) 
 * [Rudex](https://rudex.org/)
 * [WALLDEX](https://w.walldex.pro/) 
 * [XBTS](https://xbts.io/)
+
+### Bridges
+
+* [BlockTrades](https://blocktrades.us/)
+* [GoDex](https://godex.io/)
+* [SimpleSwap](https://simpleswap.io/)
+* [StealthEx](https://stealthex.io/)
 
 ### Services
 
@@ -208,13 +214,6 @@ do your own research!
 * [DexGames](https://dexgames.net/)
 * [Nowcoin](https://nowcoingame.com/)
 
-### Bridges
-
-* [BlockTrades](https://blocktrades.us/)
-* [GoDex](https://godex.io/)
-* [SimpleSwap](https://simpleswap.io/)
-* [StealthEx](https://stealthex.io/)
-
 ## Other Blockchains in the BitShares Family
 
 BitShares being the first that is build on the Graphene or graphene-like base
@@ -223,7 +222,6 @@ foundations:
 
 * [Crypviser](https://crypviser.network/)
 * [Cybex](https://cybex.io/en)
-* [DBXChain](https://www.dbx.one/)
 * [Dascoin](https://dascoin.com/)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
