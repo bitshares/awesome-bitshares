@@ -168,6 +168,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
 * [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
 * [Uptick](http://uptick.rocks) - command line tool.
+* [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
 
 ## Projects Using the BitShares Blockchain
 
