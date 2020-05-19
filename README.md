@@ -196,6 +196,7 @@ do your own research!
 * [GoDex](https://godex.io/)
 * [SimpleSwap](https://simpleswap.io/)
 * [StealthEx](https://stealthex.io/)
+* [SwapSpace](https://swapspace.co/)
 
 ### Services
 
