@@ -204,7 +204,6 @@ do your own research!
 * [Lykke](https://www.lykke.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
-* [Tatch Capital](https://tatchcapital.com/)
 
 ### Legal
 
