@@ -193,10 +193,11 @@ do your own research!
 ### Bridges
 
 * [BlockTrades](https://blocktrades.us/)
+* [Exolix](https://exolix.com/)
 * [GoDex](https://godex.io/)
 * [SimpleSwap](https://simpleswap.io/)
 * [StealthEx](https://stealthex.io/)
-* [SwapSpace](https://swapspace.co/)
+* [SwapSpace](https://swapspace.co/) 
 
 ### Services
 
