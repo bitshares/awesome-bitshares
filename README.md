@@ -208,12 +208,11 @@ do your own research!
 
 ### Legal
 
-* [Everprove](https://www.everprove.com/)
+* Everprove; Needs BTS upgrade. Will be removed from here on Aug 1st, 2020 if upgrade not completed by then.
 
 ### Games
 
-* [DexGames](https://dexgames.net/)
-* [Nowcoin](https://nowcoingame.com/)
+* [SmartHoldem](https://dexgames.net/) 
 
 ## Other Blockchains in the BitShares Family
 
