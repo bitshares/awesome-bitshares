@@ -186,7 +186,8 @@ do your own research!
 
 * [Citadel](https://citadel.li/)
 * [GDEX](https://www.gdex.io/) 
-* [Rudex](https://rudex.org/)
+* [ioBanker](https://iobanker.com/) - Stablecoins too! (HONEST.BTC, .CNY, .ETH, .USD, .XAG, .XAU, .XRP) 
+* [RuDex](https://rudex.org/)
 * [WALLDEX](https://w.walldex.pro/) 
 * [XBTS](https://xbts.io/)
 
