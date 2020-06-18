@@ -76,26 +76,29 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 ### Community
 
 * [Forums](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013).
-* [Hive#bitshares](https://hive.blog/trending/bitshares) - #bitshares tagged posts on the Hive blockchain.
-* [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the Steem blockchain.
+* [Hive#bitshares](https://hive.blog/created/bitshares) - #bitshares tagged posts on the Hive blockchain.
+* [Steem#bitshares](https://steempeak.com/created/bitshares) - #bitshares tagged posts on the Steem blockchain.
 * [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
-  * [BitSharesDEX](https://t.me/BitSharesDEX) - General discussions on Telegram.
-  * [BitShares Community](https://t.me/bitshares_community) - Even more general discussions.
+  * [BitShares DEX](https://t.me/BitSharesDEX) - General discussions on Telegram.
+  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions too.
+  * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
+  * [BitShares Node Admin](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
+  * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
-  * [DEXBOTbts](https://t.me/DEXBOTbts) - Focus on DEXBot development.
+  * [DEXBot](https://t.me/DEXBOTbts) - Focus on DEXBot development.
   * Committee - (invite only) For committee members.
   * Developers - (invite only) For developers.
   * Witnesses - (invite only) For block producers.
 
 ### Conferences
 
+* [Decentralized 2019 - BitShares as Event Partner](https://decentralized.com/) - In Athens, Greece.
 * [Bitfest 2018](https://hive.blog/@bitfest) - in Amsterdam, Netherlands.
-* [Decentralized 2018 - BitShares as Platinum Sponsor](https://www.decentralized.com/blog/2018/12/02/decentralized-2018-day-1-annemieke-dirkes-bitshares/) - In Athens, Greece.
 * [Graphene DevCon 2018](https://hive.blog/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
 
 ## Utilities
@@ -130,14 +133,14 @@ research!
 ### Blockchain Explorers
 
 * [BTS.ai](https://bts.ai) - closed source.
-* [bithares-Explorer.io](https://bitshares-explorer.io/) - based on open-explorer, closed source.
+* [bitshares-explorer.io](https://bitshares-explorer.io/) - based on open-explorer, closed source.
 * [bitsharescan.com](https://bitsharescan.com) - closed source.
 * [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
 * [Open-Explorer.io](https://open-explorer.io/) - open source code base.
 
 #### Kibana
 
-* [kibana.bitshares.eu Down for maint.]()
+* kibana.bitshares.eu Down for maint.
 
 ## Libraries
 
