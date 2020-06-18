@@ -184,12 +184,12 @@ do your own research!
 
 ### Exchanges
 
-* [Citadel](https://citadel.li/)
-* [GDEX](https://www.gdex.io/) 
-* [ioBanker](https://iobanker.com/) - Stablecoins too! (HONEST.BTC, .CNY, .ETH, .USD, .XAG, .XAU, .XRP) 
-* [RuDex](https://rudex.org/)
-* [WALLDEX](https://w.walldex.pro/) 
-* [XBTS](https://xbts.io/)
+* [Citadel](https://citadel.li/) - Stablecoins too! (bitCNY, bitEUR, bitGold, bitSilver, bitUSD) 
+* [GDEX](https://www.gdex.io/) - Stablecoins too! (bitCNY, bitEUR, bitGold, bitSilver, bitUSD) 
+* [ioBanker](https://iobanker.com/) - Stablecoins too! (HONEST.BTC, .CNY, .ETH, .USD, .XAG, .XAU, .XRP, etc) 
+* [RuDex](https://rudex.org/) - Stablecoins too! (bitCNY, bitEUR, bitGold, bitSilver, bitUSD) 
+* [WALLDEX](https://w.walldex.pro/) - Stablecoins too! (bitCNY, bitEUR, bitGold, bitSilver, bitUSD) 
+* [XBTS](https://xbts.io/) - Stablecoins too! (bitCNY, bitEUR, bitGold, bitSilver, bitUSD) 
 
 ### Bridges
 
