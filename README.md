@@ -185,9 +185,10 @@ do your own research!
 ### Exchanges
 
 * [Citadel](https://citadel.li/)
-* [GDEX](https://www.gdex.io/) 
-* [Rudex](https://rudex.org/)
-* [WALLDEX](https://w.walldex.pro/) 
+* [GDEX](https://www.gdex.io/)
+* [ioBanker](https://iobanker.com/)
+* [RuDEX](https://rudex.org/)
+* [WALLDEX](https://w.walldex.pro/)
 * [XBTS](https://xbts.io/)
 
 ### Bridges
