@@ -129,6 +129,7 @@ research!
 * [Magic Wallet](https://www.magicw.net/) - Android/iOS app.
 * [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
 * [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet.
+* Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
 ### Blockchain Explorers
 
