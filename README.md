@@ -126,7 +126,7 @@ wallet.bitshares.org.
 private account credentials and thus, your funds may be at risk. Do your own
 research!
 
-* [Magic Wallet](https://www.magicw.net/) - Android/iOS app.
+* [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
 * [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
 * [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet.
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
