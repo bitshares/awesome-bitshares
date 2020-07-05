@@ -35,6 +35,7 @@
   - [Blockchain Explorers](#blockchain-explorers)
 - [Libraries](#libraries)
   - [C++ Libraries](#c-libraries)
+  - [Go Libraries](#go-libraries)
   - [Java Libraries](#java-libraries)
   - [JavaScript Libraries](#javascript-libraries)
   - [Python Libraries](#python-libraries)
