@@ -125,6 +125,7 @@ wallet.bitshares.org.
 * [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
+* [Ledger App](https://github.com/bitshares/ledger-app-bitshares) - Bitshares Wallet App for Ledger Nano S
 
 ### Hosted Wallets
 
