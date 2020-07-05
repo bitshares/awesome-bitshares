@@ -124,6 +124,7 @@ wallet.bitshares.org.
 * [Beet](https://github.com/bitshares/beet/) - standalone web application.
 * [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
+* [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
 
 ### Hosted Wallets
 
@@ -155,6 +156,11 @@ Libraries capable of communicating with the BitShares blockchain.
 ### C++ Libraries
 
 * [bitshares-core](https://github.com/bitshares/bitshares-core) - reference code base that operates the blockchain.
+
+### Go Libraries
+
+* [bitshares-go](https://github.com/scorum/bitshares-go) - BitShares golang client
+* [Another Go Library](https://github.com/denkhaus/bitshares) - API for BitShares - supports websocket RPC & Wallet functions
 
 #### Java Libraries
 
