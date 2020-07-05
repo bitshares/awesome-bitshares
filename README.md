@@ -134,10 +134,20 @@ wallet.bitshares.org.
 private account credentials and thus, your funds may be at risk. Do your own
 research!
 
+#### Hosted Mainnet Wallets
+
 * [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
 * [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
-* [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet.
+* [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet, lastest release.
+* [staging.bitshares.org](https://staging.bitshares.org) - BitShares.org hosted reference wallet, latest release candidate.
+* [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
+
+#### Hosted Testnet Wallets
+
+* [test.xbts.io](https://test.xbts.io/)
+* testnet.bitshares.org - down for maintenance.
+* testnet.bitshares.eu - down for maintenance.
 
 ### Blockchain Explorers
 
@@ -147,7 +157,7 @@ research!
 * open-explorer.io - Down for maintenance. Open souce, code is [here](https://github.com/bitshares/open-explorer).
 * bitshares-explorer.io - based on open-explorer, closed source. Down for maintenance.
 
-#### Kibana
+### Kibana
 
 * kibana.bitshares.eu Down for maintenance.
 
@@ -164,7 +174,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [bitshares-go](https://github.com/scorum/bitshares-go) - BitShares golang client
 * [Another Go Library](https://github.com/denkhaus/bitshares) - API for BitShares - supports websocket RPC & Wallet functions
 
-#### Java Libraries
+### Java Libraries
 
 * [graphenej](https://github.com/Agorise/graphenej) - Graphene Java lib for mobile app Developers.
 
