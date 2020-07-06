@@ -217,6 +217,7 @@ do your own research!
 * [RuDEX](https://rudex.org/)
 * [WALLDEX](https://w.walldex.pro/)
 * [XBTS](https://xbts.io/)
+* [Compumatrix](https://dex.compumatrix.co/)
 
 ### Bridges
 
@@ -230,6 +231,7 @@ do your own research!
 ### Services
 
 * [BTSabc](http://www.btsabc.org/)
+* [Compumatrix](https://www.compumatrix.com/)
 * [Lykke](https://www.lykke.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
