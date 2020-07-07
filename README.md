@@ -233,6 +233,7 @@ do your own research!
 * [Lykke](https://www.lykke.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
+* [Moneda Par](https://monedapar.com.ar/) - a non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
 
 ### Legal
 
