@@ -160,6 +160,7 @@ research!
 ### Kibana
 
 * kibana.bitshares.eu Down for maintenance.
+* [kibana.bts.mobi](https://kibana.bts.mobi/)
 
 ## Libraries
 
