@@ -213,7 +213,8 @@ do your own research!
 
 * [Citadel](https://citadel.li/)
 * [GDEX](https://www.gdex.io/)
-* [ioBanker](https://iobanker.com/)
+* [ioBanker](https://iobanker.com/) 
+* [MXC](https://mxc.com/) 
 * [RuDEX](https://rudex.org/)
 * [WALLDEX](https://w.walldex.pro/)
 * [XBTS](https://xbts.io/)
