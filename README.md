@@ -44,7 +44,6 @@
    - [Exchanges](#exchanges)
    - [Bridges](#bridges)
    - [Services](#services)
-   - [Legal](#legal)
    - [Games](#games)
    - [Others](#others)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
@@ -235,10 +234,6 @@ do your own research!
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
 * [Moneda Par](https://monedapar.com.ar/) - a non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
-
-### Legal
-
-* Everprove; Needs BTS upgrade. Will be removed from here on Aug 1st, 2020 if upgrade not completed by then.
 
 ### Games
 
