@@ -27,7 +27,6 @@
   - [Documentation](#documentation)
   - [Community](#community)
   - [Conferences](#conferences)
-  - [Blogs](#blogs)
 - [Utilities](#utilities)
   - [Blockchain API](#blockchain-api)
   - [Opensource Wallets](#opensource-wallets)
@@ -45,7 +44,6 @@
    - [Bridges](#bridges)
    - [Services](#services)
    - [Games](#games)
-   - [Others](#others)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
 
 ## Awesome BitShares Blockchain
