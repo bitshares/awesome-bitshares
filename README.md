@@ -22,8 +22,6 @@
 ## Contents
 
 - [Awesome BitShares Blockchain](#awesome-bitshares-blockchain)
-  - [Approvals and Mandates](#approvals-and-mandates)
-  - [Official Resources](#official-resources)
   - [Documentation](#documentation)
   - [Community](#community)
   - [Conferences](#conferences)
@@ -52,18 +50,6 @@ A curated list of resources around the BitShares Blockchain and its
 ecosystem.
 
 Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
-
-### Approvals and Mandates
-
-> In BitShares, nothing is official unless approved by the holders of
-> BTS through an approval process
-
-* Legal Spokesperson ([1](https://www.bitshares.foundation/workers/2017-10-spokesperson), [2](https://www.bitshares.foundation/workers/2019-01-legal-representative))
-* bitshares.org project website [1](https://www.bitshares.foundation/workers/2018-10-bitshares-org)
-
-### Official Resources
-
-* [BitShares Blockchain Foundation](https://bitshares.foundation)
 
 ### Documentation
 
