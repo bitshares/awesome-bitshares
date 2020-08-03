@@ -22,12 +22,9 @@
 ## Contents
 
 - [Awesome BitShares Blockchain](#awesome-bitshares-blockchain)
-  - [Approvals and Mandates](#approvals-and-mandates)
-  - [Official Resources](#official-resources)
   - [Documentation](#documentation)
   - [Community](#community)
   - [Conferences](#conferences)
-  - [Blogs](#blogs)
 - [Utilities](#utilities)
   - [Blockchain API](#blockchain-api)
   - [Opensource Wallets](#opensource-wallets)
@@ -44,9 +41,7 @@
    - [Exchanges](#exchanges)
    - [Bridges](#bridges)
    - [Services](#services)
-   - [Legal](#legal)
    - [Games](#games)
-   - [Others](#others)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
 
 ## Awesome BitShares Blockchain
@@ -55,18 +50,6 @@ A curated list of resources around the BitShares Blockchain and its
 ecosystem.
 
 Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
-
-### Approvals and Mandates
-
-> In BitShares, nothing is official unless approved by the holders of
-> BTS through an approval process
-
-* Legal Spokesperson ([1](https://www.bitshares.foundation/workers/2017-10-spokesperson), [2](https://www.bitshares.foundation/workers/2019-01-legal-representative))
-* bitshares.org project website [1](https://www.bitshares.foundation/workers/2018-10-bitshares-org)
-
-### Official Resources
-
-* [BitShares Blockchain Foundation](https://bitshares.foundation)
 
 ### Documentation
 
@@ -235,10 +218,6 @@ do your own research!
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
 * [Moneda Par](https://monedapar.com.ar/) - a non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
-
-### Legal
-
-* Everprove; Needs BTS upgrade. Will be removed from here on Aug 1st, 2020 if upgrade not completed by then.
 
 ### Games
 
