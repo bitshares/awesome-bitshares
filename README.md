@@ -156,7 +156,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Go Libraries
 
 * [bitshares-go](https://github.com/scorum/bitshares-go) - BitShares golang client
-* [Another Go Library](https://github.com/denkhaus/bitshares) - API for BitShares - supports websocket RPC & Wallet functions
+* [go-bitshares](https://github.com/denkhaus/go-bitshares) - API for BitShares - supports websocket RPC & Wallet functions
 
 ### Java Libraries
 
