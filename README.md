@@ -135,7 +135,7 @@ research!
 ### Blockchain Explorers
 
 * [BTS.ai](https://bts.ai) - closed source.
-* [bitsharescan.com](https://bitsharescan.com) - closed source.
+* bitsharescan.com - closed source. Down for maintenance.
 * [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
 * open-explorer.io - Down for maintenance. Open souce, code is [here](https://github.com/bitshares/open-explorer).
 * bitshares-explorer.io - based on open-explorer, closed source. Down for maintenance.
