@@ -71,8 +71,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
-  * [BitShares DEX](https://t.me/BitSharesDEX) - General discussions on Telegram.
-  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions too.
+  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
   * [BitShares Node Admin](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
@@ -195,11 +194,11 @@ do your own research!
 
 ### Exchanges
 
-* [Citadel](https://citadel.li/)
+* Citadel `https``://citadel.li/` outdated
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
-* [WALLDEX](https://w.walldex.pro/)
+* WALLDEX - `https``://w.walldex.pro/` currently unreachable
 * [XBTS](https://xbts.io/)
 
 ### Bridges
@@ -233,7 +232,7 @@ foundations:
 * [Cybex](https://cybex.io/en)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
-* [GreenPower](https://grnpower.io/) - formerly known as [Dascoin](https://dascoin.com/).
+* GreenPower `https``://grnpower.io/` currently down - formerly known as `Dascoin` (`https``://dascoin.com/`).
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
