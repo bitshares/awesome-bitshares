@@ -194,11 +194,11 @@ do your own research!
 
 ### Exchanges
 
-* Citadel `https://citadel.li/` outdated
+* Citadel `https``://citadel.li/` outdated
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
-* WALLDEX - `https://w.walldex.pro/` currently unreachable
+* WALLDEX - `https``://w.walldex.pro/` currently unreachable
 * [XBTS](https://xbts.io/)
 
 ### Bridges
@@ -232,7 +232,7 @@ foundations:
 * [Cybex](https://cybex.io/en)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
-* GreenPower `https://grnpower.io/` currently down - formerly known as `Dascoin` (`https://dascoin.com/`).
+* GreenPower `https``://grnpower.io/` currently down - formerly known as `Dascoin` (`https``://dascoin.com/`).
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
