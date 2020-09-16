@@ -71,8 +71,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
-  * [BitShares DEX](https://t.me/BitSharesDEX) - General discussions on Telegram.
-  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions too.
+  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
   * [BitShares Node Admin](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
