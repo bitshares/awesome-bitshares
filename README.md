@@ -209,6 +209,7 @@ do your own research!
 * [BlockTrades](https://blocktrades.us/)
 * [Exolix](https://exolix.com/)
 * [GoDex](https://godex.io/)
+* [InstaEx](https://instaex.io/)
 * [SimpleSwap](https://simpleswap.io/)
 * [StealthEx](https://stealthex.io/)
 * [SwapSpace](https://swapspace.co/)
