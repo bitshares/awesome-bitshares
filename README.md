@@ -186,6 +186,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
 * [Uptick](http://uptick.rocks) - command line tool.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
+* [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
 
 ## Projects Using the BitShares Blockchain
 
