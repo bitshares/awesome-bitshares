@@ -28,10 +28,10 @@
 - [Utilities](#utilities)
   - [Blockchain API](#blockchain-api)
   - [Extended APIs](#extended-apis)
+  - [Kibana and ElasticSearch Endpoints](#kibana-and-elasticsearch-endpoints)
   - [Opensource Wallets](#opensource-wallets)
   - [Hosted Wallets](#hosted-wallets)
   - [Blockchain Explorers](#blockchain-explorers)
-  - [Kibana and ES Endpoints](#kibana-and-es-endpoints)
 - [Libraries](#libraries)
   - [C++ Libraries](#c-libraries)
   - [Go Libraries](#go-libraries)
@@ -113,6 +113,13 @@ There are some extended APIs provided by the community.
 * https://cryptofresh.com/api/docs
 * https://xbts.io/api/
 
+### Kibana and ElasticSearch Endpoints
+
+Kibana and ElasticSearch endpoints can be used to query blockchain data and perform visualizations.
+
+* kibana.bitshares.eu Down for maintenance.
+* [kibana.bts.mobi](https://kibana.bts.mobi/) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/data/_count?pretty=true) for raw data).
+
 ### Opensource Wallets
 
 * [BTS++](https://btspp.io/) - native Android/iOS app.
@@ -152,11 +159,6 @@ research!
 * bitsharescan.com - closed source. Down for maintenance.
 * open-explorer.io - Down for maintenance. Open souce, code is [here](https://github.com/bitshares/open-explorer).
 * bitshares-explorer.io - based on open-explorer, closed source. Down for maintenance.
-
-### Kibana and ES Endpoints
-
-* kibana.bitshares.eu Down for maintenance.
-* [kibana.bts.mobi](https://kibana.bts.mobi/) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/data/_count?pretty=true) for raw data).
 
 ## Libraries
 
