@@ -27,9 +27,11 @@
   - [Conferences](#conferences)
 - [Utilities](#utilities)
   - [Blockchain API](#blockchain-api)
+  - [Extended APIs](#extended-apis)
   - [Opensource Wallets](#opensource-wallets)
   - [Hosted Wallets](#hosted-wallets)
   - [Blockchain Explorers](#blockchain-explorers)
+  - [Kibana and ES Endpoints](#kibana-and-es-endpoints)
 - [Libraries](#libraries)
   - [C++ Libraries](#c-libraries)
   - [Go Libraries](#go-libraries)
@@ -102,6 +104,15 @@ wallet.bitshares.org.
 
 * [List of Blockchain API endpoints](https://github.com/bitshares/bitshares-ui/blob/develop/app/api/apiConfig.js#L128)
 
+### Extended APIs
+
+There are some extended APIs provided by the community.
+
+* https://api.bitshares.ws/docs/
+* https://api.bitshares.build/api-docs/
+* https://cryptofresh.com/api/docs
+* https://xbts.io/api/
+
 ### Opensource Wallets
 
 * [BTS++](https://btspp.io/) - native Android/iOS app.
@@ -142,10 +153,10 @@ research!
 * open-explorer.io - Down for maintenance. Open souce, code is [here](https://github.com/bitshares/open-explorer).
 * bitshares-explorer.io - based on open-explorer, closed source. Down for maintenance.
 
-### Kibana
+### Kibana and ES Endpoints
 
 * kibana.bitshares.eu Down for maintenance.
-* [kibana.bts.mobi](https://kibana.bts.mobi/)
+* [kibana.bts.mobi](https://kibana.bts.mobi/) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/data/_count?pretty=true) for raw data).
 
 ## Libraries
 
