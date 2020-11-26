@@ -215,7 +215,7 @@ do your own research!
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
-* WALLDEX - `https``://w.walldex.pro/` currently unreachable
+* [WALLDEX](https://walldex.pro/)
 * [XBTS](https://xbts.io/)
 
 ### Bridges
