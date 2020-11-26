@@ -6,9 +6,7 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
   pull_request:
-    branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,7 +29,7 @@ jobs:
         uses: ruby/setup-ruby@v1.52.0
         with:
           # Engine and version to use, see the syntax in the README. Reads from .ruby-version or .tool-versions if unset.
-          ruby-version: default # optional, default is default
+          ruby-version: latest # optional, default is default
           # The version of Bundler to install. Either 'none', 1, 2, 'latest' or 'Gemfile.lock'.
           # For 'Gemfile.lock', the version is determined based on the BUNDLED WITH section from the file Gemfile.lock, $BUNDLE_GEMFILE.lock or gems.locked.
           # Defaults to 'Gemfile.lock' if the file exists and 'latest' otherwise.
