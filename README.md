@@ -24,8 +24,10 @@
 - [Awesome BitShares Blockchain](#awesome-bitshares-blockchain)
   - [Documentation](#documentation)
   - [Community](#community)
+  - [News](#news)
   - [Conferences](#conferences)
 - [Utilities](#utilities)
+  - [Downloads](#downloads)
   - [Blockchain API](#blockchain-api)
   - [Extended APIs](#extended-apis)
   - [Kibana and ElasticSearch Endpoints](#kibana-and-elasticsearch-endpoints)
@@ -87,6 +89,10 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * Developers - (invite only) For developers.
   * Witnesses - (invite only) For block producers.
 
+### News
+
+* [News.BitShares.org](https://news.bitshares.org/)
+
 ### Conferences
 
 * [Decentralized 2019 - BitShares as Event Partner](https://decentralized.com/) - In Athens, Greece.
@@ -94,6 +100,13 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Graphene DevCon 2018](https://hive.blog/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
 
 ## Utilities
+
+### Downloads
+
+* [BitShares-Core](https://github.com/bitshares/bitshares-core/releases) - full node and command line tools
+* [BitShares-UI](https://github.com/bitshares/bitshares-ui/releases) - desktop light wallet
+* [BitShares Mobile App](https://app.btspp.io/) - iOS and Android
+* [Media Kit](https://github.com/bitshares/marketing/tree/master/media-kit) - Logos, banners and etc
 
 ### Blockchain API
 
