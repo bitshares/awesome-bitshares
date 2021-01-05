@@ -227,6 +227,7 @@ do your own research!
 ### Exchanges
 
 * Citadel `https``://citadel.li/` outdated
+* [DelionDEX](https://dex.delion.online)
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
