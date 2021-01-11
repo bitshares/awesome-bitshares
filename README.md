@@ -209,6 +209,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Tools and Scripts
 
 * [DEXBot](https://dexbot.info) - Market Maker bot
+* [extinction-event](https://github.com/litepresence/extinction-event) - bitsharesQUANT Distributed Exchange Algo Trading Framework
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
 * [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
