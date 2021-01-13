@@ -157,7 +157,7 @@ research!
 * [staging.bitshares.org](https://staging.bitshares.org) - BitShares.org hosted reference wallet, latest release candidate.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
 * [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
-* m.magicw.net `https``://m.magicw.net/` - Web version of the MagicWallet Android/iOS app (currently down).
+* [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
 #### Hosted Testnet Wallets
