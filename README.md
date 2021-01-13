@@ -157,7 +157,7 @@ research!
 * [staging.bitshares.org](https://staging.bitshares.org) - BitShares.org hosted reference wallet, latest release candidate.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
 * [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
-* [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
+* m.magicw.net `https``://m.magicw.net/` - Web version of the MagicWallet Android/iOS app (currently down).
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
 #### Hosted Testnet Wallets
@@ -212,8 +212,8 @@ Libraries capable of communicating with the BitShares blockchain.
 * [extinction-event](https://github.com/litepresence/extinction-event) - bitsharesQUANT Distributed Exchange Algo Trading Framework
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
-* [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
-* [Uptick](http://uptick.rocks) - command line tool.
+* [StakeMachine](https://github.com/xeroc/stakemachine) - Trading Bot Infrastructure for the BitShares Decentralized Exchange (DEX).
+* [Uptick](http://docs.uptick.rocks) - command line tool.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
 * [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
 
@@ -239,7 +239,6 @@ do your own research!
 * [BlockTrades](https://blocktrades.us/)
 * [Exolix](https://exolix.com/)
 * [GoDex](https://godex.io/)
-* [InstaEx](https://instaex.io/)
 * [SimpleSwap](https://simpleswap.io/)
 * [StealthEx](https://stealthex.io/)
 * [SwapSpace](https://swapspace.co/)
