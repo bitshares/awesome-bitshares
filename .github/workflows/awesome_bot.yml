@@ -1,0 +1,44 @@
+# This is the workflow to check URLs in README
+
+name: Check URLs with awesome_bot
+
+# Controls when the action will run. 
+on: [push, pull_request, workflow_dispatch]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "run"
+  run:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Setup Ruby, JRuby and TruffleRuby
+        # You may pin to the exact commit or the version.
+        # uses: ruby/setup-ruby@e27aee156d42e38ff8a4c2fc97b125c4087cbcc7
+        uses: ruby/setup-ruby@v1.52.0
+        with:
+          # Engine and version to use, see the syntax in the README. Reads from .ruby-version or .tool-versions if unset.
+          ruby-version: head # optional, default is default
+
+          # The version of Bundler to install. Either 'none', 1, 2, 'latest' or 'Gemfile.lock'.
+          # For 'Gemfile.lock', the version is determined based on the BUNDLED WITH section from the file Gemfile.lock, $BUNDLE_GEMFILE.lock or gems.locked.
+          # Defaults to 'Gemfile.lock' if the file exists and 'latest' otherwise.
+          bundler: none # optional, default is default
+
+          # Run "bundle install", and cache the result automatically. Either true or false.
+          bundler-cache: false # optional, default is false
+          # The working directory to use for resolving paths for .ruby-version, .tool-versions and Gemfile.lock.
+          working-directory: . # optional, default is .
+
+      # Install the awesome_bot gem
+      - name: Install the awesome_bot gem
+        run: gem install awesome_bot
+
+      # Run awesome_bot
+      - name: Run awesome_bot
+        run: awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe

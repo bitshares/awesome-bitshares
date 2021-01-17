@@ -22,14 +22,15 @@
 ## Contents
 
 - [Awesome BitShares Blockchain](#awesome-bitshares-blockchain)
-  - [Approvals and Mandates](#approvals-and-mandates)
-  - [Official Resources](#official-resources)
   - [Documentation](#documentation)
   - [Community](#community)
+  - [News](#news)
   - [Conferences](#conferences)
-  - [Blogs](#blogs)
 - [Utilities](#utilities)
+  - [Downloads](#downloads)
   - [Blockchain API](#blockchain-api)
+  - [Extended APIs](#extended-apis)
+  - [Kibana and ElasticSearch Endpoints](#kibana-and-elasticsearch-endpoints)
   - [Opensource Wallets](#opensource-wallets)
   - [Hosted Wallets](#hosted-wallets)
   - [Blockchain Explorers](#blockchain-explorers)
@@ -44,9 +45,7 @@
    - [Exchanges](#exchanges)
    - [Bridges](#bridges)
    - [Services](#services)
-   - [Legal](#legal)
    - [Games](#games)
-   - [Others](#others)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
 
 ## Awesome BitShares Blockchain
@@ -56,18 +55,6 @@ ecosystem.
 
 Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
-### Approvals and Mandates
-
-> In BitShares, nothing is official unless approved by the holders of
-> BTS through an approval process
-
-* Legal Spokesperson ([1](https://www.bitshares.foundation/workers/2017-10-spokesperson), [2](https://www.bitshares.foundation/workers/2019-01-legal-representative))
-* bitshares.org project website [1](https://www.bitshares.foundation/workers/2018-10-bitshares-org)
-
-### Official Resources
-
-* [BitShares Blockchain Foundation](https://bitshares.foundation)
-
 ### Documentation
 
 * [How.BitShares.works Documentation](https://how.bitshares.works) - The primary documentation, maintained by the community, hosted by github.
@@ -76,6 +63,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [BitShares-Core Doxygen Documentation](https://doxygen.bitshares.org/) - Documentation generated from BitShares-Core code base.
 * [BitShares-UI Wiki](https://github.com/bitshares/bitshares-ui/wiki) - Guidelines about how to integrate or contribute to the reference wallet project.
 * [BitShares-UI Help](https://wallet.bitshares.org/#/help) - Guidelines about how to use the reference wallet software.
+* [BitShares Build Docs](https://docs.bitshares.build/) - Light prompt help pages
 * [docs.bitshares.eu](https://docs.bitshares.eu) - The original, worker funded documentation site. Now redirects to [how.bitshares.works](https://how.bitshares.works). The old documentation is [here](https://github.com/bitshares/docs.bitshares.org).
 * [中文文档](https://github.com/abitmore/bts-cn-docs) - Documentation in Chinese, maintained by the Chinese community.
 
@@ -85,11 +73,13 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Hive#bitshares](https://hive.blog/created/bitshares) - #bitshares tagged posts on the Hive blockchain.
 * [Steem#bitshares](https://steempeak.com/created/bitshares) - #bitshares tagged posts on the Steem blockchain.
 * [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
+* [Twitter@bitsharesorg](https://twitter.com/bitsharesorg) - Content managed by bitshares.org owner.
+* [Twitter#BitShares](https://twitter.com/search?q=%23BitShares) - #BitShares tagged on Twitter.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
-  * [BitShares DEX](https://t.me/BitSharesDEX) - General discussions on Telegram.
-  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions too.
+  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
+  * [BitShares Group](https://t.me/BitSharesGroup) - Another group for general discussions.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
   * [BitShares Node Admin](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
@@ -100,6 +90,11 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * Committee - (invite only) For committee members.
   * Developers - (invite only) For developers.
   * Witnesses - (invite only) For block producers.
+* [Discord - BitShares](https://discord.gg/NU2G2jrByq)
+
+### News
+
+* [News.BitShares.org](https://news.bitshares.org/)
 
 ### Conferences
 
@@ -109,6 +104,13 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ## Utilities
 
+### Downloads
+
+* [BitShares-Core](https://github.com/bitshares/bitshares-core/releases) - full node and command line tools
+* [BitShares-UI](https://github.com/bitshares/bitshares-ui/releases) - desktop light wallet
+* [BitShares Mobile App](https://app.btspp.io/) - iOS and Android
+* [Media Kit](https://github.com/bitshares/marketing/tree/master/media-kit) - Logos, banners and etc
+
 ### Blockchain API
 
 Given that many businesses and community members operate their own API
@@ -117,6 +119,22 @@ we here link to the list of nodes as used in the reference wallet on
 wallet.bitshares.org.
 
 * [List of Blockchain API endpoints](https://github.com/bitshares/bitshares-ui/blob/develop/app/api/apiConfig.js#L128)
+
+### Extended APIs
+
+There are some extended APIs provided by the community.
+
+* https://api.bitshares.ws/docs/
+* https://api.bitshares.build/api-docs/
+* https://cryptofresh.com/api/docs
+* https://xbts.io/api/
+
+### Kibana and ElasticSearch Endpoints
+
+Kibana and ElasticSearch endpoints can be used to query blockchain data and perform visualizations.
+
+* kibana.bitshares.eu Down for maintenance.
+* [kibana.bts.mobi](https://kibana.bts.mobi/) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/data/_count?pretty=true) for raw data).
 
 ### Opensource Wallets
 
@@ -136,11 +154,11 @@ research!
 
 #### Hosted Mainnet Wallets
 
-* [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
-* [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
 * [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet, lastest release.
 * [staging.bitshares.org](https://staging.bitshares.org) - BitShares.org hosted reference wallet, latest release candidate.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
+* [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
+* [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
 #### Hosted Testnet Wallets
@@ -152,14 +170,11 @@ research!
 ### Blockchain Explorers
 
 * [BTS.ai](https://bts.ai) - closed source.
-* [bitsharescan.com](https://bitsharescan.com) - closed source.
 * [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
+* [blocksights.info](https://blocksights.info) - closed source, an improved version of open-explorer.
+* bitsharescan.com - closed source. Down for maintenance.
 * open-explorer.io - Down for maintenance. Open souce, code is [here](https://github.com/bitshares/open-explorer).
 * bitshares-explorer.io - based on open-explorer, closed source. Down for maintenance.
-
-### Kibana
-
-* kibana.bitshares.eu Down for maintenance.
 
 ## Libraries
 
@@ -172,7 +187,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Go Libraries
 
 * [bitshares-go](https://github.com/scorum/bitshares-go) - BitShares golang client
-* [Another Go Library](https://github.com/denkhaus/bitshares) - API for BitShares - supports websocket RPC & Wallet functions
+* [go-bitshares](https://github.com/denkhaus/go-bitshares) - API for BitShares - supports websocket RPC & Wallet functions
 
 ### Java Libraries
 
@@ -195,11 +210,13 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Tools and Scripts
 
 * [DEXBot](https://dexbot.info) - Market Maker bot
+* [extinction-event](https://github.com/litepresence/extinction-event) - bitsharesQUANT Distributed Exchange Algo Trading Framework
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
-* [stakemachine](http://stakemachine.com) [deprecated trading bot platform]
-* [Uptick](http://uptick.rocks) - command line tool.
+* [StakeMachine](https://github.com/xeroc/stakemachine) - Trading Bot Infrastructure for the BitShares Decentralized Exchange (DEX).
+* [Uptick](http://docs.uptick.rocks) - command line tool.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
+* [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
 
 ## Projects Using the BitShares Blockchain
 
@@ -211,11 +228,12 @@ do your own research!
 
 ### Exchanges
 
-* [Citadel](https://citadel.li/)
+* Citadel `https``://citadel.li/` outdated
+* [DelionDEX](https://dex.delion.online)
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
-* [WALLDEX](https://w.walldex.pro/)
+* [WALLDEX](https://walldex.pro/)
 * [XBTS](https://xbts.io/)
 * [Compumatrix](https://dex.compumatrix.co/)
 
@@ -235,10 +253,7 @@ do your own research!
 * [Lykke](https://www.lykke.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
-
-### Legal
-
-* Everprove; Needs BTS upgrade. Will be removed from here on Aug 1st, 2020 if upgrade not completed by then.
+* [Moneda Par](https://monedapar.com.ar/) - a non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
 
 ### Games
 
@@ -254,7 +269,7 @@ foundations:
 * [Cybex](https://cybex.io/en)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
-* [GreenPower](https://grnpower.io/) - formerly known as [Dascoin](https://dascoin.com/).
+* GreenPower `https``://grnpower.io/` currently down - formerly known as `Dascoin` (`https``://dascoin.com/`).
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
