@@ -235,6 +235,7 @@ do your own research!
 * [RuDEX](https://rudex.org/)
 * [WALLDEX](https://walldex.pro/)
 * [XBTS](https://xbts.io/)
+* [Compumatrix](https://dex.compumatrix.co/)
 
 ### Bridges
 
@@ -248,10 +249,11 @@ do your own research!
 ### Services
 
 * [BTSabc](http://www.btsabc.org/)
+* [Compumatrix](https://compumatrix.com/) - Business process outsourcing and home-based employment.
 * [Lykke](https://www.lykke.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
-* [Moneda Par](https://monedapar.com.ar/) - a non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
+* [Moneda Par](https://monedapar.com.ar/) - A non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
 
 ### Games
 
