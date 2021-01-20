@@ -90,7 +90,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * Committee - (invite only) For committee members.
   * Developers - (invite only) For developers.
   * Witnesses - (invite only) For block producers.
-* [Discord - BitShares](https://discord.gg/NU2G2jrByq)
+* [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
 
 ### News
 
