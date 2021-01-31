@@ -128,6 +128,7 @@ There are some extended APIs provided by the community.
 * https://api.bitshares.build/api-docs/
 * https://cryptofresh.com/api/docs
 * https://xbts.io/api/
+* https://api.testnet.bitshares.ws/docs - for the public testnet
 
 ### Kibana and ElasticSearch Endpoints
 
