@@ -172,7 +172,7 @@ research!
 
 * [BTS.ai](https://bts.ai) - closed source.
 * [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
-* [blocksights.info](https://blocksights.info) - closed source, an improved version of the open-source [open-explorer](https://github.com/bitshares/open-explorer). Supports both Mainnet and the public testnet.
+* [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. Closed source, an improved version of the open-source [open-explorer](https://github.com/bitshares/open-explorer).
 * bitsharescan.com - closed source. Down for maintenance.
 * open-explorer.io - Down for maintenance. Open souce, code is [here](https://github.com/bitshares/open-explorer).
 * bitshares-explorer.io - based on open-explorer, closed source. Down for maintenance.
