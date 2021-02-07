@@ -246,6 +246,7 @@ do your own research!
 
 ### Services
 
+* [Apptrade](https://www.apptrade.io/) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
 * [BTSabc](http://www.btsabc.org/)
 * [Compumatrix](https://compumatrix.com/) - Business process outsourcing and home-based employment.
 * [Lykke](https://www.lykke.com/)
