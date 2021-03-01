@@ -229,6 +229,7 @@ do your own research!
 
 * Citadel `https``://citadel.li/` outdated
 * [DelionDEX](https://dex.delion.online)
+* [EVRAZ](https://evrazdex.org/)
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
