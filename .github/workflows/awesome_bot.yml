@@ -41,4 +41,4 @@ jobs:
 
       # Run awesome_bot
       - name: Run awesome_bot
-        run: awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
+        run: awesome_bot README.md --allow-redirect --allow-dupe
