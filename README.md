@@ -276,7 +276,7 @@ foundations:
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
-* [SOUNDAC](https://soundac.io/)
+* SOUNDAC `https``://soundac.io/` - currently in maintenance, moving to other tech
 * [Scorum](https://scorumcoins.com/en-us/)
 * [Serey](https://serey.io/)
 * [Smoke Network](https://smoke.network/)
