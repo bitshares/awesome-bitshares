@@ -272,7 +272,6 @@ foundations:
 * [Cybex](https://cybex.io/en)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
-* GreenPower `https``://grnpower.io/` currently down - formerly known as `Dascoin` (`https``://dascoin.com/`).
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
