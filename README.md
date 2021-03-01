@@ -142,9 +142,10 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [BTS++](https://btspp.io/) - native Android/iOS app.
 * [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Beet](https://github.com/bitshares/beet/) - standalone web application.
-* [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
+* [BitShares-UI (Reference Wallet)](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
+* [EVRAZ Wallet](https://github.com/evraz-org/EVRAZ-smartphone-application) - Android app
 * [Ledger App](https://github.com/bitshares/ledger-app-bitshares) - Bitshares Wallet App for Ledger Nano S
 
 ### Hosted Wallets
@@ -234,6 +235,7 @@ do your own research!
 * [WALLDEX](https://walldex.pro/)
 * [XBTS](https://xbts.io/)
 * [Compumatrix](https://dex.compumatrix.co/)
+* [AEX](https://www.aex.cool/) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
 ### Bridges
 
@@ -249,6 +251,7 @@ do your own research!
 * [Apptrade](https://www.apptrade.io/) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
 * [BTSabc](http://www.btsabc.org/)
 * [Compumatrix](https://compumatrix.com/) - Business process outsourcing and home-based employment.
+* [EVRAZ](https://www.evrazcoin.org/) - Global System of Electronic Payments on BitShares
 * [Lykke](https://www.lykke.com/)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
 * [Quintric](https://quintric.com/)
