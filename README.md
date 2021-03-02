@@ -167,7 +167,6 @@ research!
 
 * [test.xbts.io](https://test.xbts.io/)
 * testnet.bitshares.org - down for maintenance.
-* testnet.bitshares.eu - down for maintenance.
 
 ### Blockchain Explorers
 
