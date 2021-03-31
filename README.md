@@ -215,6 +215,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [StakeMachine](https://github.com/xeroc/stakemachine) - Trading Bot Infrastructure for the BitShares Decentralized Exchange (DEX).
 * [Uptick](http://docs.uptick.rocks) - command line tool.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
+* [bts-notifier](https://github.com/scientistnik/bts-notifier) - Telegram bot for sending BitShares account notifications
 * [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
 
 ## Projects Using the BitShares Blockchain
