@@ -209,7 +209,7 @@ Libraries capable of communicating with the BitShares blockchain.
 
 ### Tools and Scripts
 
-* [DEXBot](https://dexbot.info) - Market Maker bot
+* [DEXBot](https://github.com/Codaone/DEXBot) - Market Maker bot
 * [extinction-event](https://github.com/litepresence/extinction-event) - bitsharesQUANT Distributed Exchange Algo Trading Framework
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
@@ -234,7 +234,6 @@ do your own research!
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
-* [WALLDEX](https://walldex.pro/)
 * [XBTS](https://xbts.io/)
 * [Compumatrix](https://dex.compumatrix.co/)
 * [AEX](https://www.aex.cool/) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
@@ -272,7 +271,6 @@ foundations:
 * [Crypviser](https://crypviser.network/)
 * [Cybex](https://cybex.io/en)
 * [EOS](https://eos.io/)
-* [Golos](https://golos.io/)
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
