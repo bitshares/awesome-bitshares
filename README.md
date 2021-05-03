@@ -81,14 +81,15 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
   * [BitShares Group](https://t.me/BitSharesGroup) - Another group for general discussions.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
-  * [BitShares Node Admin](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
+  * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
+  * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
+  * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
   * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
   * [DEXBot](https://t.me/DEXBOTbts) - Focus on DEXBot development.
   * Committee - (invite only) For committee members.
-  * Developers - (invite only) For developers.
   * Witnesses - (invite only) For block producers.
 * [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
 
