@@ -81,14 +81,15 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
   * [BitShares Group](https://t.me/BitSharesGroup) - Another group for general discussions.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
-  * [BitShares Node Admin](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
+  * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
+  * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
+  * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
   * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
   * [DEXBot](https://t.me/DEXBOTbts) - Focus on DEXBot development.
   * Committee - (invite only) For committee members.
-  * Developers - (invite only) For developers.
   * Witnesses - (invite only) For block producers.
 * [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
 
@@ -207,7 +208,7 @@ Libraries capable of communicating with the BitShares blockchain.
 
 ### Tools and Scripts
 
-* [DEXBot](https://dexbot.info) - Market Maker bot
+* [DEXBot](https://github.com/Codaone/DEXBot) - Market Maker bot
 * [extinction-event](https://github.com/litepresence/extinction-event) - bitsharesQUANT Distributed Exchange Algo Trading Framework
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
@@ -233,7 +234,6 @@ do your own research!
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
 * [RuDEX](https://rudex.org/)
-* [WALLDEX](https://walldex.pro/)
 * [XBTS](https://xbts.io/)
 * [Compumatrix](https://dex.compumatrix.co/)
 * [AEX](https://www.aex.cool/) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
@@ -271,7 +271,6 @@ foundations:
 * [Crypviser](https://crypviser.network/)
 * [Cybex](https://cybex.io/en)
 * [EOS](https://eos.io/)
-* [Golos](https://golos.io/)
 * [Hive](https://hive.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
