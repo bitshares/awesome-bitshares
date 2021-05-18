@@ -57,7 +57,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Documentation
 
-* [How.BitShares.works Documentation](https://how.bitshares.works) - The primary documentation, maintained by the community, hosted by github.
+* [How.BitShares.works](https://how.bitshares.works) / [docs.bitshares.org](https://docs.bitshares.org) - The primary documentation, maintained by the community, hosted by github.
 * [Dev.BitShares.works Docs](https://dev.bitshares.works) - The BitShares Developers Portal.
 * [BitShares-Core Wiki](https://github.com/bitshares/bitshares-core/wiki) - Documentation about the core software development and integration. 
 * [BitShares-Core Doxygen Documentation](https://doxygen.bitshares.org/) - Documentation generated from BitShares-Core code base.
