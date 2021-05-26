@@ -234,7 +234,6 @@ do your own research!
 * [EVRAZ](https://evrazdex.org/)
 * [GDEX](https://www.gdex.io/)
 * [ioBanker](https://iobanker.com/)
-* [RuDEX](https://rudex.org/)
 * [XBTS](https://xbts.io/)
 * [Compumatrix](https://dex.compumatrix.co/)
 * [AEX](https://www.aex.cool/) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
