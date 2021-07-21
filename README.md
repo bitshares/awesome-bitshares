@@ -232,7 +232,7 @@ do your own research!
 * Citadel `https``://citadel.li/` outdated
 * [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org/)
-* [GDEX](https://www.gdex.io/)
+* [GDEX](https://www.52bts.net/)
 * [ioBanker](https://iobanker.com/)
 * [XBTS](https://xbts.io/)
 * [Compumatrix](https://dex.compumatrix.co/)
