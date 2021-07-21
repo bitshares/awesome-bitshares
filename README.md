@@ -278,6 +278,7 @@ foundations:
 * [Serey](https://serey.io/)
 * [Smoke Network](https://smoke.network/)
 * [Steem](https://steempeak.com/)
+* [TUSC](https://tusc.network) - The Universal Settlement Coin
 * [VIT](https://vicetoken.com/)
 * [Whaleshares](https://whaleshares.io/)
 * [Yoyow](https://yoyow.org/index_en.html)
