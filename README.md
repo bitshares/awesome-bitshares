@@ -232,10 +232,9 @@ do your own research!
 * Citadel `https``://citadel.li/` outdated
 * [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org/)
-* [GDEX](https://www.gdex.io/)
+* [GDEX](https://www.52bts.net/)
 * [ioBanker](https://iobanker.com/)
 * [XBTS](https://xbts.io/)
-* [Compumatrix](https://dex.compumatrix.co/)
 * [AEX](https://www.aex.cool/) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
 ### Bridges
@@ -250,7 +249,6 @@ do your own research!
 ### Services
 
 * [Apptrade](https://www.apptrade.io/) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
-* [BTSabc](http://www.btsabc.org/)
 * [Compumatrix](https://compumatrix.com/) - Business process outsourcing and home-based employment.
 * [EVRAZ](https://www.evrazcoin.org/) - Global System of Electronic Payments on BitShares
 * [Lykke](https://www.lykke.com/)
@@ -278,6 +276,7 @@ foundations:
 * [Serey](https://serey.io/)
 * [Smoke Network](https://smoke.network/)
 * [Steem](https://steempeak.com/)
+* [TUSC](https://tusc.network) - The Universal Settlement Coin
 * [VIT](https://vicetoken.com/)
 * [Whaleshares](https://whaleshares.io/)
 * [Yoyow](https://yoyow.org/index_en.html)
