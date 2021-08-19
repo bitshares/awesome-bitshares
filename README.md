@@ -22,6 +22,7 @@
 ## Contents
 
 - [Awesome BitShares Blockchain](#awesome-bitshares-blockchain)
+  - [Websites](#websites)
   - [Documentation](#documentation)
   - [Community](#community)
   - [News](#news)
@@ -54,6 +55,12 @@ A curated list of resources around the BitShares Blockchain and its
 ecosystem.
 
 Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
+
+### Websites
+
+* [BitShares.org](https://bitshares.org) - The main website
+* [BitShares.build](https://bitshares.build) - Another site maintained by the community
+* [BitSharesManagement.Group](https://bitsharesmanagement.group) - Main site of BitShares Management Group (BTSMG)
 
 ### Documentation
 
