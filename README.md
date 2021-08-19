@@ -167,7 +167,6 @@ research!
 * [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet, lastest release.
 * [staging.bitshares.org](https://staging.bitshares.org) - BitShares.org hosted reference wallet, latest release candidate.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
-* [wallet.bitshares.eu](https://wallet.bitshares.eu) - BitShares Europe hosted reference wallet (customized).
 * [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
 * [app.xbts.io](https://app.xbts.io/) - New DeFi wallet with AMM liquidity pools
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
