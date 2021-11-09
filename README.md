@@ -67,10 +67,10 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [How.BitShares.works](https://how.bitshares.works) / [docs.bitshares.org](https://docs.bitshares.org) - The primary documentation, maintained by the community, hosted by github.
 * [Dev.BitShares.works Docs](https://dev.bitshares.works) - The BitShares Developers Portal.
 * [BitShares-Core Wiki](https://github.com/bitshares/bitshares-core/wiki) - Documentation about the core software development and integration. 
-* [BitShares-Core Doxygen Documentation](https://doxygen.bitshares.org/) - Documentation generated from BitShares-Core code base.
+* [BitShares-Core Doxygen Documentation](https://doxygen.bitshares.org) - Documentation generated from BitShares-Core code base.
 * [BitShares-UI Wiki](https://github.com/bitshares/bitshares-ui/wiki) - Guidelines about how to integrate or contribute to the reference wallet project.
 * [BitShares-UI Help](https://wallet.bitshares.org/#/help) - Guidelines about how to use the reference wallet software.
-* [BitShares Build Docs](https://docs.bitshares.build/) - Light prompt help pages
+* [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages
 * [docs.bitshares.eu](https://docs.bitshares.eu) - The original, worker funded documentation site. Now redirects to [how.bitshares.works](https://how.bitshares.works). The old documentation is [here](https://github.com/bitshares/docs.bitshares.org).
 * [中文文档](https://github.com/abitmore/bts-cn-docs) - Documentation in Chinese, maintained by the Chinese community.
 
@@ -81,6 +81,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Steem#bitshares](https://steempeak.com/created/bitshares) - #bitshares tagged posts on the Steem blockchain.
 * [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * [Twitter@bitsharesorg](https://twitter.com/bitsharesorg) - Content managed by bitshares.org owner.
+* [Twitter@BitSharesGroup](https://twitter.com/bitsharesgroup) - Content managed by BitSharesGroup.org owner.
 * [Twitter#BitShares](https://twitter.com/search?q=%23BitShares) - #BitShares tagged on Twitter.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
@@ -106,7 +107,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Conferences
 
-* [Decentralized 2019 - BitShares as Event Partner](https://decentralized.com/) - In Athens, Greece.
+* [Decentralized 2019 - BitShares as Event Partner](https://decentralized.com) - In Athens, Greece.
 * [Bitfest 2018](https://hive.blog/@bitfest) - in Amsterdam, Netherlands.
 * [Graphene DevCon 2018](https://hive.blog/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
 
@@ -132,10 +133,10 @@ wallet.bitshares.org.
 
 There are some extended APIs provided by the community.
 
-* https://api.bitshares.ws/docs/
-* https://api.bitshares.build/api-docs/
+* https://api.bitshares.ws/docs
+* https://api.bitshares.build/api-docs
 * https://cryptofresh.com/api/docs
-* https://xbts.io/api/
+* https://xbts.io/api
 * https://api.testnet.bitshares.ws/docs - for the public testnet
 
 ### Kibana and ElasticSearch Endpoints
@@ -143,13 +144,13 @@ There are some extended APIs provided by the community.
 Kibana and ElasticSearch endpoints can be used to query blockchain data and perform visualizations.
 
 * kibana.bitshares.eu Down for maintenance.
-* [kibana.bts.mobi](https://kibana.bts.mobi/) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/data/_count?pretty=true) for raw data).
+* [kibana.bts.mobi](https://kibana.bts.mobi) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/data/_count?pretty=true) for raw data).
 
 ### Opensource Wallets
 
-* [BTS++](https://btspp.io/) - native Android/iOS app.
+* [BTS++](https://btspp.io) - native Android/iOS app.
 * [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map, in 104 languages.
-* [Beet](https://github.com/bitshares/beet/) - standalone web application.
+* [Beet](https://github.com/bitshares/beet) - standalone web application.
 * [BitShares-UI (Reference Wallet)](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
@@ -167,13 +168,14 @@ research!
 * [wallet.bitshares.org](https://wallet.bitshares.org) - BitShares.org hosted reference wallet, lastest release.
 * [staging.bitshares.org](https://staging.bitshares.org) - BitShares.org hosted reference wallet, latest release candidate.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
-* [m.magicw.net](https://m.magicw.net/) - Web version of the MagicWallet Android/iOS app.
-* [app.xbts.io](https://app.xbts.io/) - New DeFi wallet with AMM liquidity pools
+* [bts.exchange](https://bts.exchange) - BitSharesGroup.org hosted reference wallet.
+* [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
+* [app.xbts.io](https://app.xbts.io) - New DeFi wallet with AMM liquidity pools
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
 #### Hosted Testnet Wallets
 
-* [test.xbts.io](https://test.xbts.io/)
+* [test.xbts.io](https://test.xbts.io)
 * testnet.bitshares.org - down for maintenance.
 
 ### Blockchain Explorers
@@ -235,36 +237,37 @@ do your own research!
 
 ### Exchanges
 
-* Citadel `https``://citadel.li/` outdated
+* Citadel `https``://citadel.li` outdated
 * [DelionDEX](https://dex.delion.online)
-* [EVRAZ](https://evrazdex.org/)
-* [GDEX](https://www.52bts.net/)
-* [ioBanker](https://iobanker.com/)
-* [XBTS](https://xbts.io/)
-* [AEX](https://www.aex.cool/) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
+* [EVRAZ](https://evrazdex.org)
+* [GDEX](https://www.52bts.net)
+* [ioBanker](https://iobanker.com)
+* [XBTS](https://xbts.io)
+* [AEX](https://www.aex.cool) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
 ### Bridges
 
-* [BlockTrades](https://blocktrades.us/)
-* [Exolix](https://exolix.com/)
-* [GoDex](https://godex.io/)
-* [SimpleSwap](https://simpleswap.io/)
-* [StealthEx](https://stealthex.io/)
-* [SwapSpace](https://swapspace.co/)
+* [BlockTrades](https://blocktrades.us)
+* [Exolix](https://exolix.com)
+* [GoDex](https://godex.io)
+* [SimpleSwap](https://simpleswap.io)
+* [StealthEx](https://stealthex.io)
+* [SwapSpace](https://swapspace.co)
+* [ioxbank](https://ioxbank.com)
 
 ### Services
 
-* [Apptrade](https://www.apptrade.io/) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
-* [Compumatrix](https://compumatrix.com/) - Business process outsourcing and home-based employment.
-* [EVRAZ](https://www.evrazcoin.org/) - Global System of Electronic Payments on BitShares
-* [Lykke](https://www.lykke.com/)
+* [Apptrade](https://www.apptrade.io) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
+* [Compumatrix](https://compumatrix.com) - Business process outsourcing and home-based employment.
+* [EVRAZ](https://www.evrazcoin.org) - Global System of Electronic Payments on BitShares
+* [Lykke](https://www.lykke.com)
 * [PalmPay](https://PalmPay.io) - A chain-agnostic Point Of Sale system, using Bitshares DEx, in 104 languages.
-* [Quintric](https://quintric.com/)
-* [Moneda Par](https://monedapar.com.ar/) - A non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
+* [Quintric](https://quintric.com)
+* [Moneda Par](https://monedapar.com.ar) - A non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
 
 ### Games
 
-* [SmartHoldem](https://dexgames.net/) 
+* [SmartHoldem](https://dexgames.net) 
 
 ## Other Blockchains in the BitShares Family
 
@@ -272,19 +275,19 @@ BitShares being the first that is build on the Graphene or graphene-like base
 system, other blockchains have been deployed that make use of the very same
 foundations:
 
-* [Crypviser](https://crypviser.network/)
+* [Crypviser](https://crypviser.network)
 * [Cybex](https://cybex.io/en)
-* [EOS](https://eos.io/)
-* [Hive](https://hive.io/)
-* [Peerplays](https://www.peerplays.com/)
-* SOUNDAC (PeerTracks) `https``://soundac.io/` - currently in maintenance, moving to other tech
-* [Scorum](https://scorumcoins.com/en-us/)
-* [Serey](https://serey.io/)
-* [Smoke Network](https://smoke.network/)
-* [Steem](https://steempeak.com/)
+* [EOS](https://eos.io)
+* [Hive](https://hive.io)
+* [Peerplays](https://www.peerplays.com)
+* SOUNDAC (PeerTracks) `https``://soundac.io` - currently in maintenance, moving to other tech
+* [Scorum](https://scorumcoins.com/en-us)
+* [Serey](https://serey.io)
+* [Smoke Network](https://smoke.network)
+* [Steem](https://steempeak.com)
 * [TUSC](https://tusc.network) - The Universal Settlement Coin
-* [VIT](https://vicetoken.com/)
-* [Whaleshares](https://whaleshares.io/)
+* [VIT](https://vicetoken.com)
+* [Whaleshares](https://whaleshares.io)
 * [Yoyow](https://yoyow.org/index_en.html)
 
 # License
