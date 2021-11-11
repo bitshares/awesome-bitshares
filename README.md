@@ -282,7 +282,7 @@ system, other blockchains have been deployed that make use of the very same
 foundations:
 
 * [Crypviser](https://crypviser.network)
-* [Cybex](https://cybex.io/en)
+* [Cybex](https://dex.cybex.io)
 * [EOS](https://eos.io)
 * [Hive](https://hive.io)
 * [Peerplays](https://www.peerplays.com)
