@@ -45,8 +45,9 @@
 - [Projects Using the BitShares Blockchain](#projects-using-the-bitshares-blockchain)
    - [Exchanges](#exchanges)
    - [Bridges](#bridges)
-   - [Services](#services)
    - [Games](#games)
+   - [NFT](#nft)
+   - [Services](#services)
 - [Other Blockchains in the BitShares Family](#other-blockchains-in-the-bitshares-family)
 
 ## Awesome BitShares Blockchain
@@ -255,6 +256,15 @@ do your own research!
 * [SwapSpace](https://swapspace.co)
 * [ioxbank](https://ioxbank.com)
 
+### Games
+
+* [SmartHoldem](https://dexgames.net) 
+
+### NFT
+
+* [ArtCASA Gallery](https://artcasa.gallery) 
+* [NFTEA Gallery](https://nftea.gallery) 
+
 ### Services
 
 * [Apptrade](https://www.apptrade.io) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
@@ -265,10 +275,6 @@ do your own research!
 * [Quintric](https://quintric.com)
 * [Moneda Par](https://monedapar.com.ar) - A non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
 
-### Games
-
-* [SmartHoldem](https://dexgames.net) 
-
 ## Other Blockchains in the BitShares Family
 
 BitShares being the first that is build on the Graphene or graphene-like base
@@ -276,7 +282,7 @@ system, other blockchains have been deployed that make use of the very same
 foundations:
 
 * [Crypviser](https://crypviser.network)
-* [Cybex](https://cybex.io/en)
+* [Cybex](https://dex.cybex.io)
 * [EOS](https://eos.io)
 * [Hive](https://hive.io)
 * [Peerplays](https://www.peerplays.com)
