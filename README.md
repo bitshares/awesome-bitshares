@@ -211,6 +211,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Python Libraries
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
+* [bitshares-p2p](https://github.com/HarukaMa/bitshares-p2p) - Pocking around p2p protocol of BitShares network.
 
 ### PHP Libraries
 
@@ -244,7 +245,7 @@ do your own research!
 * [GDEX](https://www.52bts.net)
 * [ioBanker](https://iobanker.com)
 * [XBTS](https://xbts.io)
-* [AEX](https://www.aex.cool) - An exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
+* [AEX](https://www.aex.com/) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
 ### Bridges
 
