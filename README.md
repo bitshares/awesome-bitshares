@@ -211,6 +211,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Python Libraries
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
+* [bitshares-p2p](https://github.com/HarukaMa/bitshares-p2p) - Pocking around p2p protocol of BitShares network.
 
 ### PHP Libraries
 
