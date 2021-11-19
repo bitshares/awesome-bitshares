@@ -200,7 +200,7 @@ Libraries capable of communicating with the BitShares blockchain.
 
 ### Java Libraries
 
-* [graphenej](https://github.com/Agorise/graphenej) - Graphene Java lib for mobile app Developers.
+* [graphenej](https://git.agorise.net/agorise/graphenej) - Graphene Java lib for mobile app Developers.
 
 ### JavaScript Libraries
 
