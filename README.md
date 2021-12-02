@@ -213,7 +213,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
 * [bitshares-p2p](https://github.com/HarukaMa/bitshares-p2p) - Pocking around p2p protocol of BitShares network.
 * [BitShares Explorer REST API](https://github.com/bitshares/bitshares-explorer-api) - API for the open-source [open-explorer](https://github.com/bitshares/open-explorer)
-* [BitShares HUG REST API](https://github.com/BTS-CM/Bitshares-HUG-REST-API) - A HUG REST API for the Bitshares network
+* [BitShares HUG REST API](https://github.com/BTS-CM/Bitshares-HUG-REST-API) - A HUG REST API for the BitShares network
 
 ### PHP Libraries
 
