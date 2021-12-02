@@ -183,7 +183,7 @@ research!
 
 * [BTS.ai](https://bts.ai) - closed source.
 * [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
-* [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. Closed source, an improved version of the open-source [open-explorer](https://github.com/bitshares/open-explorer).
+* [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. Closed source, an improved version of the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer).
 
 ## Libraries
 
@@ -212,6 +212,8 @@ Libraries capable of communicating with the BitShares blockchain.
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
 * [bitshares-p2p](https://github.com/HarukaMa/bitshares-p2p) - Pocking around p2p protocol of BitShares network.
+* [BitShares Explorer REST API](https://github.com/bitshares/bitshares-explorer-api) - API for the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer)
+* [BitShares HUG REST API](https://github.com/BTS-CM/Bitshares-HUG-REST-API) - A HUG REST API for the BitShares network
 
 ### PHP Libraries
 
