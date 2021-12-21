@@ -72,6 +72,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [BitShares-UI Wiki](https://github.com/bitshares/bitshares-ui/wiki) - Guidelines about how to integrate or contribute to the reference wallet project.
 * [BitShares-UI Help](https://wallet.bitshares.org/#/help) - Guidelines about how to use the reference wallet software.
 * [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages
+* [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
 * [docs.bitshares.eu](https://docs.bitshares.eu) - The original, worker funded documentation site. Now redirects to [how.bitshares.works](https://how.bitshares.works). The old documentation is [here](https://github.com/bitshares/docs.bitshares.org).
 * [中文文档](https://github.com/abitmore/bts-cn-docs) - Documentation in Chinese, maintained by the Chinese community.
 
@@ -265,6 +266,7 @@ do your own research!
 
 ### NFT
 
+* [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
 * [ArtCASA Gallery](https://artcasa.gallery) 
 * [NFTEA Gallery](https://nftea.gallery) 
 
