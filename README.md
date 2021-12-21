@@ -94,9 +94,12 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
   * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
+  * [BitShares Liquidity Pools](https://t.me/bitshares_amm) - Liquidity Pools and Automated-market making on BitShares blockchain.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
   * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
+  * [BitShares Management Group](https://t.me/BitShares_stakeBTS) - Discussions and support from BitShares Management Group.
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
+  * [PoolTool](https://t.me/pooltool_community_edition) - Dicussions about PoolTool.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
   * [DEXBot](https://t.me/DEXBOTbts) - Focus on DEXBot development.
   * Committee - (invite only) For committee members.
@@ -273,6 +276,7 @@ do your own research!
 ### Services
 
 * [Apptrade](https://www.apptrade.io) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
+* [BitShares Management Group](https://bitsharesmanagement.group/)
 * [Compumatrix](https://compumatrix.com) - Business process outsourcing and home-based employment.
 * [EVRAZ](https://www.evrazcoin.org) - Global System of Electronic Payments on BitShares
 * [Lykke](https://www.lykke.com)
