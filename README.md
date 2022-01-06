@@ -61,6 +61,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [BitShares.org](https://bitshares.org) - The main website
 * [BitShares.build](https://bitshares.build) - Another site maintained by the community
+* [BitSharesGroup.org](https://bitsharesgroup.org/) - BitShares Group is an independent organization acting in the best interests of the BitShares Blockchain.
 * [BitSharesManagement.Group](https://bitsharesmanagement.group) - Main site of BitShares Management Group (BTSMG)
 
 ### Documentation
