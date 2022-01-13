@@ -34,6 +34,7 @@
   - [Kibana and ElasticSearch Endpoints](#kibana-and-elasticsearch-endpoints)
   - [Opensource Wallets](#opensource-wallets)
   - [Hosted Wallets](#hosted-wallets)
+  - [Hardware Wallets](#hardware-wallets)
   - [Blockchain Explorers](#blockchain-explorers)
 - [Libraries](#libraries)
   - [C++ Libraries](#c-libraries)
@@ -184,6 +185,11 @@ research!
 
 * [test.xbts.io](https://test.xbts.io)
 * testnet.bitshares.org - down for maintenance.
+
+### Hardware Wallets
+
+* [Ledger Nano S](https://github.com/bitshares/ledger-app-bitshares)
+* [Keybox](https://keybox.magicw.net/)
 
 ### Blockchain Explorers
 
