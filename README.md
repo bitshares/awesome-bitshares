@@ -164,6 +164,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
 * [EVRAZ Wallet](https://github.com/evraz-org/EVRAZ-smartphone-application) - Android app
 * [Ledger App](https://github.com/bitshares/ledger-app-bitshares) - Bitshares Wallet App for Ledger Nano S
+* [Oases](https://github.com/huskcasaca/bitshares-oases-android) - Android app.
 
 ### Hosted Wallets
 
@@ -214,6 +215,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Java Libraries
 
 * [graphenej](https://git.agorise.net/agorise/graphenej) - Graphene Java lib for mobile app Developers.
+* [bitshares-kit](https://github.com/huskcasaca/bitshares-kit) - A Kotlin/JVM based library for BitShares blockchain.
 
 ### JavaScript Libraries
 
