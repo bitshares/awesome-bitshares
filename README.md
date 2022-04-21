@@ -156,7 +156,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 
 ### Opensource Wallets
 
-* [BitShares Moble (BTS++)](https://github.com/bitshares/bitshares-mobile-app) - native Android/iOS app.
+* [BitShares Mobile (BTS++)](https://github.com/bitshares/bitshares-mobile-app) - native Android/iOS app.
 * [BiTSy](https://git.agorise.net/agorise/bitsy-wallet) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Beet](https://github.com/bitshares/beet) - standalone web application.
 * [BitShares-UI (Reference Wallet)](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
