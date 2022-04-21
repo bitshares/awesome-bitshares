@@ -156,8 +156,8 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 
 ### Opensource Wallets
 
-* [BTS++](https://btspp.io) - native Android/iOS app.
-* [BiTSy](http://www.BiTSy-wallet.com) - native Android wallet with Merchants/Tellers map, in 104 languages.
+* [BitShares Moble (BTS++)](https://github.com/bitshares/bitshares-mobile-app) - native Android/iOS app.
+* [BiTSy](https://git.agorise.net/agorise/bitsy-wallet) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Beet](https://github.com/bitshares/beet) - standalone web application.
 * [BitShares-UI (Reference Wallet)](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS).
@@ -181,6 +181,7 @@ research!
 * [pr.bts.mobi](https://pr.bts.mobi) - Random in-development version of bitshares-ui, publicly hosted on [Github Pages](https://github.com/abitmore/pr.bts.mobi), published by Github Actions from [a fork of bitshares-ui](https://github.com/abitmore/bitshares-ui)
 * [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
 * [app.xbts.io](https://app.xbts.io) - New DeFi wallet with AMM liquidity pools
+* [SwapBTS.com](https://swapbts.com) - Lightweight web wallet with many features, for mobile use
 * Check the [Exchanges](#exchanges) running on the BitShares blockchain too.
 
 #### Hosted Testnet Wallets
@@ -197,7 +198,7 @@ research!
 
 * [BTS.ai](https://bts.ai) - closed source.
 * [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
-* [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. Closed source, an improved version of the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer).
+* [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. The back end is closed source, the front end is [open source](https://github.com/blocksights/blocksights-open-explorer). It is an improved version of the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer).
 
 ## Libraries
 
