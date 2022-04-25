@@ -307,6 +307,7 @@ foundations:
 * [EOS](https://eos.io)
 * [Hive](https://hive.io)
 * [Peerplays](https://www.peerplays.com)
+* [Revolution-Populi](https://revolutionpopuli.com) ([codebase](https://github.com/Revolution-Populi))
 * SOUNDAC (PeerTracks) `https``://soundac.io` - currently in maintenance, moving to other tech
 * [Scorum](https://scorumcoins.com/en-us)
 * [Serey](https://serey.io)
@@ -316,6 +317,7 @@ foundations:
 * [VIT](https://vicetoken.com)
 * [Whaleshares](https://whaleshares.io)
 * [Yoyow](https://yoyow.org/index_en.html)
+* https://github.com/Revolution-Populi
 
 # License
 
