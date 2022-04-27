@@ -227,6 +227,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Python Libraries
 
 * [python-bitshares](https://github.com/bitshares/python-bitshares) - full featured python library.
+* [Uptick](http://docs.uptick.rocks) - command line tool.
 * [bitshares-p2p](https://github.com/HarukaMa/bitshares-p2p) - Pocking around p2p protocol of BitShares network.
 * [BitShares Explorer REST API](https://github.com/bitshares/bitshares-explorer-api) - API for the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer)
 * [BitShares HUG REST API](https://github.com/BTS-CM/Bitshares-HUG-REST-API) - A HUG REST API for the BitShares network
@@ -242,7 +243,6 @@ Libraries capable of communicating with the BitShares blockchain.
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
 * [StakeMachine](https://github.com/xeroc/stakemachine) - Trading Bot Infrastructure for the BitShares Decentralized Exchange (DEX).
-* [Uptick](http://docs.uptick.rocks) - command line tool.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
 * [bts-notifier](https://github.com/scientistnik/bts-notifier) - Telegram bot for sending BitShares account notifications
 * [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
