@@ -303,6 +303,7 @@ system, other blockchains have been deployed that make use of the very same
 foundations:
 
 * [Crypviser](https://crypviser.network)
+* [CWD.GLOBAL](https://cwd.global) ([codebase](https://github.com/crowdwiz-biz))
 * [Cybex](https://dex.cybex.io)
 * [EOS](https://eos.io)
 * [Hive](https://hive.io)
