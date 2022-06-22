@@ -298,6 +298,8 @@ BitShares being the first that is build on the Graphene or graphene-like base
 system, other blockchains have been deployed that make use of the very same
 foundations:
 
+* [CWD.GLOBAL](https://cwd.global) ([codebase](https://github.com/crowdwiz-biz))
+* [RevPop](https://revolutionpopuli.com) ([codebase](https://github.com/Revolution-Populi))
 * [Cybex](https://dex.cybex.io)
 * [EOS](https://eos.io)
 * [Hive](https://hive.io)
@@ -311,7 +313,6 @@ foundations:
 * [VIT](https://vicetoken.com)
 * [Whaleshares](https://whaleshares.io)
 * [Yoyow](https://yoyow.org/index_en.html)
-* https://github.com/Revolution-Populi
 
 # License
 
