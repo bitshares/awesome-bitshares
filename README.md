@@ -298,7 +298,7 @@ BitShares being the first that is build on the Graphene or graphene-like base
 system, other blockchains have been deployed that make use of the very same
 foundations:
 
-* [Crypviser](https://crypviser.network)
+* [Crypviser](`https://crypviser.network`) - (inactive)
 * [Cybex](https://dex.cybex.io)
 * [EOS](https://eos.io)
 * [Hive](https://hive.io)
