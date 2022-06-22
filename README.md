@@ -63,7 +63,6 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [BitShares.org](https://bitshares.org) - The main website
 * [BitShares.build](https://bitshares.build) - Another site maintained by the community
 * [BitSharesGroup.org](https://bitsharesgroup.org/) - BitShares Group is an independent organization acting in the best interests of the BitShares Blockchain.
-* [BitSharesManagement.Group](https://bitsharesmanagement.group) - Main site of BitShares Management Group (BTSMG)
 
 ### Documentation
 
@@ -168,9 +167,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 
 ### Hosted Wallets
 
-**Warning**: Since these are hosted wallets, they may have access to your
-private account credentials and thus, your funds may be at risk. Do your own
-research!
+**Warning**: Since these are hosted wallets, they may have access to your private account credentials and thus, your account may be at risk. Do your own research before using them.
 
 #### Hosted Mainnet Wallets
 
@@ -257,13 +254,12 @@ do your own research!
 
 ### Exchanges
 
-* Citadel `https``://citadel.li` outdated
-* [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org)
 * [GDEX](https://www.52bts.net)
 * [ioBanker](https://iobanker.com)
 * [XBTS](https://xbts.io)
-* [AEX](https://www.aex.com/) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
+* [AEX](https://www.aex.com) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
+* [BitShares Management Group](`https://bitsharesmanagement.group`) - StakeBTS program (inactive)
 
 ### Bridges
 
@@ -288,7 +284,7 @@ do your own research!
 ### Services
 
 * [Apptrade](https://www.apptrade.io) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
-* [BitShares Management Group](https://bitsharesmanagement.group/)
+* [BitShares Management Group](`https://bitsharesmanagement.group`) - StakeBTS program (inactive)
 * [Compumatrix](https://compumatrix.com) - Business process outsourcing and home-based employment.
 * [EVRAZ](https://www.evrazcoin.org) - Global System of Electronic Payments on BitShares
 * [Lykke](https://www.lykke.com)
@@ -308,7 +304,6 @@ foundations:
 * [Hive](https://hive.io)
 * [Peerplays](https://www.peerplays.com)
 * [Revolution-Populi](https://revolutionpopuli.com) ([codebase](https://github.com/Revolution-Populi))
-* SOUNDAC (PeerTracks) `https``://soundac.io` - currently in maintenance, moving to other tech
 * [Scorum](https://scorumcoins.com/en-us)
 * [Serey](https://serey.io)
 * [Smoke Network](https://smoke.network)
