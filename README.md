@@ -62,7 +62,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [BitShares.org](https://bitshares.org) - The main website
 * [BitShares.build](https://bitshares.build) - Another site maintained by the community
-* [BitSharesGroup.org](https://bitsharesgroup.org/) - BitShares Group is an independent organization acting in the best interests of the BitShares Blockchain.
+* [BitSharesGroup.org](https://bitsharesgroup.org) - BitShares Group is an independent organization acting in the best interests of the BitShares Blockchain.
 * [BitSharesManagement.Group](https://bitsharesmanagement.group) - Main site of BitShares Management Group (BTSMG)
 
 ### Documentation
@@ -111,7 +111,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### News
 
-* [News.BitShares.org](https://news.bitshares.org/)
+* [News.BitShares.org](https://news.bitshares.org)
 
 ### Conferences
 
@@ -125,7 +125,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [BitShares-Core](https://github.com/bitshares/bitshares-core/releases) - full node and command line tools
 * [BitShares-UI](https://github.com/bitshares/bitshares-ui/releases) - desktop light wallet
-* [BitShares Mobile App](https://app.btspp.io/) - iOS and Android
+* [BitShares Mobile App](https://app.btspp.io) - iOS and Android
 * [Media Kit](https://github.com/bitshares/marketing/tree/master/media-kit) - Logos, banners and etc
 
 ### Blockchain API
@@ -192,7 +192,7 @@ research!
 ### Hardware Wallets
 
 * [Ledger Nano S](https://github.com/bitshares/ledger-app-bitshares)
-* [Keybox](https://keybox.magicw.net/)
+* [Keybox](https://keybox.magicw.net)
 
 ### Blockchain Explorers
 
@@ -263,7 +263,7 @@ do your own research!
 * [GDEX](https://www.52bts.net)
 * [ioBanker](https://iobanker.com)
 * [XBTS](https://xbts.io)
-* [AEX](https://www.aex.com/) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
+* [AEX](https://www.aex.com) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
 ### Bridges
 
@@ -288,7 +288,7 @@ do your own research!
 ### Services
 
 * [Apptrade](https://www.apptrade.io) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
-* [BitShares Management Group](https://bitsharesmanagement.group/)
+* [BitShares Management Group](https://bitsharesmanagement.group)
 * [Compumatrix](https://compumatrix.com) - Business process outsourcing and home-based employment.
 * [EVRAZ](https://www.evrazcoin.org) - Global System of Electronic Payments on BitShares
 * [Lykke](https://www.lykke.com)
@@ -318,7 +318,6 @@ foundations:
 * [VIT](https://vicetoken.com)
 * [Whaleshares](https://whaleshares.io)
 * [Yoyow](https://yoyow.org/index_en.html)
-* https://github.com/Revolution-Populi
 
 # License
 
