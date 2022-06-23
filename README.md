@@ -169,8 +169,8 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 ### Hosted Wallets
 
 **Warning**: Since these are hosted wallets, they may have access to your
-private account credentials and thus, your funds may be at risk. Do your own
-research!
+private account credentials and thus, your funds may be at risk. Please do
+your own research before using them.
 
 #### Hosted Mainnet Wallets
 
