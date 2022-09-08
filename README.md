@@ -246,6 +246,8 @@ Libraries capable of communicating with the BitShares blockchain.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
 * [bts-notifier](https://github.com/scientistnik/bts-notifier) - Telegram bot for sending BitShares account notifications
 * [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
+* [Bitshares_NFT_Issuance_Tool](https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool)
+* [NFT_Viewer](https://github.com/BTS-CM/NFT_Viewer)
 
 ## Projects Using the BitShares Blockchain
 
@@ -284,6 +286,8 @@ do your own research!
 * [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
 * [ArtCASA Gallery](https://artcasa.gallery) 
 * [NFTEA Gallery](https://nftea.gallery) 
+* [Bitshares_NFT_Issuance_Tool](https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool)
+* [NFT_Viewer](https://github.com/BTS-CM/NFT_Viewer)
 
 ### Services
 
