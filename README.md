@@ -262,7 +262,7 @@ do your own research!
 * Citadel `https``://citadel.li` outdated
 * [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org)
-* [GDEX](https://www.52bts.net)
+* GDEX (no dedicated website, [deposits and withdrawals are processed manually](https://bitsharestalk.org/index.php?topic=33861.0))
 * [ioBanker](https://iobanker.com)
 * [XBTS](https://xbts.io)
 * [AEX](https://www.aex.com) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
