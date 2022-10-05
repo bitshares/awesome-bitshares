@@ -264,6 +264,7 @@ do your own research!
 * [EVRAZ](https://evrazdex.org)
 * [GDEX](https://www.52bts.net)
 * [ioBanker](https://iobanker.com)
+* [PirateCash](https://piratecash.net/) - [PirateCash DEX](https://wallet.piratecash.net/)
 * [XBTS](https://xbts.io)
 * [AEX](https://www.aex.com) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
