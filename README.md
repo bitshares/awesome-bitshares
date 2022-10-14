@@ -216,7 +216,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Java Libraries
 
 * [graphenej](https://git.agorise.net/agorise/graphenej) - Graphene Java lib for mobile app Developers.
-* [bitshares-kit](https://github.com/huskcasaca/bitshares-kit) - A Kotlin/JVM based library for BitShares blockchain.
+* bitshares-kit `https:``//github.com/huskcasaca/bitshares-kit` - A Kotlin/JVM based library for BitShares blockchain. Code is being refactored. An older forked version is [here](https://github.com/abitmore/bitshares-kit).
 
 ### JavaScript Libraries
 
