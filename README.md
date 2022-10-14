@@ -216,7 +216,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### Java Libraries
 
 * [graphenej](https://git.agorise.net/agorise/graphenej) - Graphene Java lib for mobile app Developers.
-* [bitshares-kit](https://github.com/huskcasaca/bitshares-kit) - A Kotlin/JVM based library for BitShares blockchain.
+* bitshares-kit `https:``//github.com/huskcasaca/bitshares-kit` - A Kotlin/JVM based library for BitShares blockchain. Code is being refactored. An older forked version is [here](https://github.com/abitmore/bitshares-kit).
 
 ### JavaScript Libraries
 
@@ -266,7 +266,7 @@ do your own research!
 * Citadel `https``://citadel.li` outdated
 * [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org)
-* [GDEX](https://www.52bts.net)
+* GDEX (no dedicated website, [deposits and withdrawals are processed manually](https://bitsharestalk.org/index.php?topic=33861.0))
 * [ioBanker](https://iobanker.com)
 * [PirateCash](https://piratecash.net/) - [PirateCash DEX](https://wallet.piratecash.net/)
 * [XBTS](https://xbts.io)
