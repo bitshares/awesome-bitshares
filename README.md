@@ -221,6 +221,7 @@ Libraries capable of communicating with the BitShares blockchain.
 ### JavaScript Libraries
 
 * [bitsharesjs](https://github.com/bitshares/bitsharesjs) - used by reference wallet.
+* [bitsharesjs-ws](https://github.com/bitshares/bitsharesjs-ws) - used by reference wallet.
 * [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library.
 * [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI.
 
@@ -246,8 +247,11 @@ Libraries capable of communicating with the BitShares blockchain.
 * [Telegram notifier](https://github.com/Codaone/BitShares-Telegram-notifier) - a simple bitshares telegram notifier
 * [bts-notifier](https://github.com/scientistnik/bts-notifier) - Telegram bot for sending BitShares account notifications
 * [PoolTool](https://github.com/iamredbar/PoolTool) - A simple GUI tool to help anyone use Liquidity Pools on the BitShares blockchain.
-* [Bitshares_NFT_Issuance_Tool](https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool)
-* [NFT_Viewer](https://github.com/BTS-CM/NFT_Viewer)
+* [Bitshares_NFT_Issuance_Tool](https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool) - A GUI to help users issue new NFTs on the Bitshares blockchain.
+* [NFT_Viewer](https://github.com/BTS-CM/NFT_Viewer) - A GUI to view NFTs on the Bitshares blockchain. 
+* [BTS-QRCodes](https://github.com/BTS-CM/BTS-QRCodes) - QR code generation scripts for Bitshares blockchain operations.
+* [BEET-JS](https://github.com/bitshares/beet-js) - A JS library for 3rd party apps to interact with the Bitshares BEET multiwallet.
+* [BEET-Deeplinks](https://github.com/BTS-CM/beet-deeplinks) - A module for constructing Bitshares BEET deeplinks.
 
 ## Projects Using the BitShares Blockchain
 
