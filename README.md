@@ -60,19 +60,20 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Websites
 
-* [Bitshares.github.io](https://bitshares.github.io/) - The new main website
-* [BitShares.build](https://bitshares.build) - Another site maintained by the community
+* [Bitshares.github.io](https://bitshares.github.io/) - Main website.
+* [BitShares.build](https://bitshares.build) - Main website backup.
 * [BitSharesGroup.org](https://bitsharesgroup.org) - BitShares Group is an independent organization acting in the best interests of the BitShares Blockchain.
 
 ### Documentation
 
-* [How.BitShares.works](https://how.bitshares.works) / [docs.bitshares.org](https://docs.bitshares.org) - The primary documentation, maintained by the community, hosted by github.
+* [docs.bitshares.org](https://docs.bitshares.org) - The primary documentation, maintained by the community, hosted by github.
+* [How.BitShares.works](https://how.bitshares.works) - The primary documentation backup.
+* [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages.
 * [Dev.BitShares.works Docs](https://dev.bitshares.works) - The BitShares Developers Portal.
 * [BitShares-Core Wiki](https://github.com/bitshares/bitshares-core/wiki) - Documentation about the core software development and integration. 
 * [BitShares-Core Doxygen Documentation](https://doxygen.bitshares.org) - Documentation generated from BitShares-Core code base.
 * [BitShares-UI Wiki](https://github.com/bitshares/bitshares-ui/wiki) - Guidelines about how to integrate or contribute to the reference wallet project.
 * [BitShares-UI Help](https://wallet.bitshares.org/#/help) - Guidelines about how to use the reference wallet software.
-* [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages
 * [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
 * [docs.bitshares.eu](https://docs.bitshares.eu) - The original, worker funded documentation site. Now redirects to [how.bitshares.works](https://how.bitshares.works). The old documentation is [here](https://github.com/bitshares/docs.bitshares.org).
 * [中文文档](https://github.com/abitmore/bts-cn-docs) - Documentation in Chinese, maintained by the Chinese community.
@@ -84,17 +85,19 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Hive: Bitshares community](https://peakd.com/c/hive-120117/created) - Community dedicated for Bitshares on the Hive blockchain.
 * [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * [Twitter@BitSharesGroup](https://twitter.com/bitsharesgroup) - Content managed by BitSharesGroup.org owner.
-* [Twitter@artcasa_fine](https://twitter.com/artcasa_fine) - Twitter account for the Bitshares Artcasa NFT Gallery
-* [Twitter@nftea_gallery](https://twitter.com/nftea_gallery) - Twitter account for the Bitshares NFTEA NFT Gallery
+* [Twitter@artcasa_fine](https://twitter.com/artcasa_fine) - Twitter account for the Bitshares Artcasa NFT Gallery.
+* [Twitter@nftea_gallery](https://twitter.com/nftea_gallery) - Twitter account for the Bitshares NFTEA NFT Gallery.
 * [Twitter#BitShares](https://twitter.com/search?q=%23BitShares) - #BitShares tagged on Twitter.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
-  * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
-  * [BitShares Group](https://t.me/BitSharesGroup) - Another group for general discussions.
-  * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel
+  * [BitShares Group](https://t.me/BitSharesGroup) - Group for general discussions.
+  * [BitShares DAC](https://t.me/BitSharesDAC) - Another group for general discussions.
+  * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
+  * [BitShares Mobile](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
   * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
+  * [BitShares Investors](https://t.me/BitSharesInvestors) - For developers.
   * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
   * [BitShares Liquidity Pools](https://t.me/bitshares_amm) - Liquidity Pools and Automated-market making on BitShares blockchain.
@@ -142,8 +145,7 @@ There are some extended APIs provided by the community.
 
 * https://api.bitshares.ws/docs
 * https://api.bitshares.build/api-docs
-* https://cryptofresh.com/api/docs
-* https://xbts.io/cmc-api
+* https://xbts.io/api
 * https://api.testnet.bitshares.ws/docs - for the public testnet
 
 ### Kibana and ElasticSearch Endpoints
@@ -197,10 +199,9 @@ your own research before using them.
 
 ### Blockchain Explorers
 
-* [built-in explorer](https://wallet.bitshares.org/#/explorer/) - open source
-* [BTS.ai](https://bts.ai) - closed source.
-* [cryptofresh.com](https://cryptofresh.com) - closed source, operational since 2015.
+* [built-in explorer](https://wallet.bitshares.org/#/explorer/) - open source reference wallet built-in explorer.
 * [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. The back end is closed source, the front end is [open source](https://github.com/blocksights/blocksights-open-explorer). It is an improved version of the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer).
+* [bitshares.network](https://bitshares.network) - BitShares network information.
 
 ## Libraries
 
