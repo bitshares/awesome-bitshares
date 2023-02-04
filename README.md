@@ -95,7 +95,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [BitShares DAC](https://t.me/BitSharesDAC) - Another group for general discussions.
   * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
-  * [BitShares Mobile](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
+  * [BitShares Wallet](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
   * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
   * [BitShares Investors](https://t.me/BitSharesInvestors) - For developers.
   * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
