@@ -274,10 +274,9 @@ do your own research!
 * [BTWTY GATEWAY](https://btwty.com/) - Bit20 community ran
 * [DelionDEX](https://dex.delion.online)
 * [EVRAZ](https://evrazdex.org)
+* [PirateCash](https://piratecash.net/) - [PirateCash DEX](https://wallet.piratecash.net/)
 * GDEX (no dedicated website, [deposits and withdrawals are processed manually](https://bitsharestalk.org/index.php?topic=33861.0))
 * Citadel `https``://citadel.li` outdated
-* [PirateCash](https://piratecash.net/) - [PirateCash DEX](https://wallet.piratecash.net/)
-* [AEX](https://www.aex.com) - A centralized exchange with its exchange token (GAT) and stable coins (CNC) on BitShares
 
 ### Bridges
 
