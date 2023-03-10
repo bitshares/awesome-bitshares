@@ -93,6 +93,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * Telegram:
   * [BitShares Group](https://t.me/BitSharesGroup) - Group for general discussions.
   * [BitShares DAC](https://t.me/BitSharesDAC) - Another group for general discussions.
+  * [BitShares 比特股中文社区](https://t.me/BitSharesDEXcn) - Group for Chinese speaking people.
   * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
   * [BitShares Wallet](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
@@ -110,6 +111,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * Committee - (invite only) For committee members.
   * Witnesses - (invite only) For block producers.
 * [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
+* WeChat Groups - Please ask for invitations in the Chinese Telegram group https://t.me/BitSharesDEXcn
 
 ### News
 
@@ -190,6 +192,7 @@ your own research before using them.
 #### Hosted Testnet Wallets
 
 * [test.xbts.io](https://test.xbts.io)
+* [wallet.bitshares.org](https://wallet.bitshares.org/#/settings/access) - To use with Testnet, connect to a testnet API node in settings
 * testnet.bitshares.org - down for maintenance.
 
 ### Hardware Wallets
