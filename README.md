@@ -147,7 +147,8 @@ There are some extended APIs provided by the community.
 
 * https://api.bitshares.ws/docs
 * https://api.bitshares.build/api-docs
-* https://xbts.io/api
+* https://market-api-v2.xbts.io
+* https://market-api-v1.xbts.io
 * https://api.testnet.bitshares.ws/docs - for the public testnet
 
 ### Kibana and ElasticSearch Endpoints
