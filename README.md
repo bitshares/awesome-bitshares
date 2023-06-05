@@ -205,6 +205,7 @@ your own research before using them.
 
 * [built-in explorer](https://wallet.bitshares.org/#/explorer/) - open source reference wallet built-in explorer.
 * [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. The back end is closed source, the front end is [open source](https://github.com/blocksights/blocksights-open-explorer). It is an improved version of the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer).
+* [bitsharescan.info](https://bitsharescan.info) - BitShares Blockchain explorer.
 * [bitshares.network](https://bitshares.network) - BitShares network information.
 
 ## Libraries
