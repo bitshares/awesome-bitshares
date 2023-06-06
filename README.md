@@ -309,7 +309,6 @@ do your own research!
 * [EVRAZ](https://www.evrazcoin.org) - Global System of Electronic Payments on BitShares
 * [CryptoNinjaPay](https://cryptoninjapay.com/) ([Android](https://play.google.com/store/apps/details?id=ninja.cybertron.cryptoninja)/[iOS](https://apps.apple.com/us/app/crypto-ninja/id1517748402))
 * [Quintric](https://quintric.com)
-* [Apptrade](https://www.apptrade.io) - A profit sharing marketplace, described as “the stock market for apps”, that runs on the BitShares blockchain.
 * [Compumatrix](https://compumatrix.com) - Business process outsourcing and home-based employment.
 * [Moneda Par](https://monedapar.com.ar) - A non-profit based in Argentina that allows the exchange of goods and services through mutual loans.
 
