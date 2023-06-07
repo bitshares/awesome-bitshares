@@ -302,7 +302,7 @@ do your own research!
 * [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
 * [ArtCASA Gallery](https://artcasa.gallery) 
 * [NFTEA Gallery](https://nftea.gallery)
-* [Alguien's NFT gallery](https://alguienalli.github.io/)
+* [Alguien's NFT gallery](https://shamelesslyai.github.io/alguienAlli.github.io/)
 
 ### Services
 
