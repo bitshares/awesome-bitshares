@@ -119,6 +119,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Conferences
 
+* [Web3 Berlin 2023](https://berlinweb3.com/speaker/alexander-gerl) - June 10-11, 2023 in Berlin, Germany.
 * [Decentralized 2019 - BitShares as Event Partner](https://decentralized.com) - In Athens, Greece.
 * [Bitfest 2018](https://hive.blog/@bitfest) - in Amsterdam, Netherlands.
 * [Graphene DevCon 2018](https://hive.blog/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China.
