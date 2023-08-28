@@ -83,27 +83,28 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [BitSharesTalk Forum](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013).
 * [Hive#bitshares](https://hive.blog/created/bitshares) - #bitshares tagged posts on the Hive blockchain.
 * [Hive: Bitshares community](https://peakd.com/c/hive-120117/created) - Community dedicated for Bitshares on the Hive blockchain.
-* [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * [Twitter@BitSharesGroup](https://twitter.com/bitsharesgroup) - Content managed by BitSharesGroup.org owner.
 * [Twitter@artcasa_fine](https://twitter.com/artcasa_fine) - Twitter account for the Bitshares Artcasa NFT Gallery.
 * [Twitter@nftea_gallery](https://twitter.com/nftea_gallery) - Twitter account for the Bitshares NFTEA NFT Gallery.
 * [Twitter#BitShares](https://twitter.com/search?q=%23BitShares) - #BitShares tagged on Twitter.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
+* [YouTube@BitSharesBlockchain](https://www.youtube.com/@BitSharesBlockchain)
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
+* [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
 * Telegram:
   * [BitShares Group](https://t.me/BitSharesGroup) - Group for general discussions.
   * [BitShares DAC](https://t.me/BitSharesDAC) - Another group for general discussions.
   * [BitShares 比特股中文社区](https://t.me/BitSharesDEXcn) - Group for Chinese speaking people.
-  * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
-  * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
-  * [BitShares Wallet](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
   * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
+  * [BitShares Wallet](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
+  * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
+  * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
+  * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
   * [BitShares Investors](https://t.me/BitSharesInvestors) - For developers.
+  * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
   * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
   * [BitShares Liquidity Pools](https://t.me/bitshares_amm) - Liquidity Pools and Automated-market making on BitShares blockchain.
-  * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
-  * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
   * [PoolTool](https://t.me/pooltool_community_edition) - Dicussions about PoolTool.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
