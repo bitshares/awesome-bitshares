@@ -66,12 +66,12 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Documentation
 
-* [docs.bitshares.org](https://docs.bitshares.org) - The primary documentation, maintained by the community, hosted by github.
-* [How.BitShares.works](https://how.bitshares.works) - The primary documentation backup.
+* [BitShares.Github.io/docs](https://bitshares.github.io/docs) - New documentation site, work in progress.
+* [How.BitShares.works](https://how.bitshares.works) - The primary documentation, maintained by the community, hosted by github.
 * [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages.
 * [Dev.BitShares.works Docs](https://dev.bitshares.works) - The BitShares Developers Portal.
 * [BitShares-Core Wiki](https://github.com/bitshares/bitshares-core/wiki) - Documentation about the core software development and integration. 
-* [BitShares-Core Doxygen Documentation](https://doxygen.bitshares.org) - Documentation generated from BitShares-Core code base.
+* [BitShares-Core Doxygen Documentation](https://bitshares.github.io/doxygen) - Documentation generated from BitShares-Core code base.
 * [BitShares-UI Wiki](https://github.com/bitshares/bitshares-ui/wiki) - Guidelines about how to integrate or contribute to the reference wallet project.
 * [BitShares-UI Help](https://wallet.bitshares.org/#/help) - Guidelines about how to use the reference wallet software.
 * [BitShares NFT Specification](https://github.com/Bit20-Creative-Group/BitShares-NFT-Specification) - NFT documentation
