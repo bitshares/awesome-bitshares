@@ -165,12 +165,13 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [BitShares-UI (Reference Wallet)](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS).
 * [BitShares Mobile (BTS++)](https://github.com/bitshares/bitshares-mobile-app) - native Android/iOS app.
 * [BiTSy](https://git.agorise.net/agorise/bitsy-wallet) - native Android wallet with Merchants/Tellers map, in 104 languages.
-* [Beet](https://github.com/bitshares/beet) - A fully implemented multi-crypto wallet coded in vue3.
+* [Bitshares Beet](https://github.com/bitshares/beet) - A fully implemented multi-crypto wallet coded in vue3.
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
 * [EVRAZ Wallet](https://github.com/evraz-org/EVRAZ-smartphone-application) - Android app
 * [Ledger App](https://github.com/bitshares/ledger-app-bitshares) - Bitshares Wallet App for Ledger Nano S
 * [Oases](https://github.com/huskcasaca/bitshares-oases-android) - Android app.
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - A partially implemented Bitshares web wallet coded with Vue2.
+* [Bitshares DEX Astro UI](https://github.com/BTS-CM/astro-ui) - A Bitshares DEX user interface implemented in React and Astro.
 
 ### Hosted Wallets
 
@@ -234,6 +235,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [bitsharesjs-ws](https://github.com/bitshares/bitsharesjs-ws) - used by reference wallet.
 * [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library.
 * [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI.
+* [BTS Buntime](https://github.com/BTS-CM/bts-buntime) - A fork of bitsharesjs for BunJS
 
 ### Python Libraries
 
@@ -266,6 +268,7 @@ Libraries capable of communicating with the BitShares blockchain.
 * [Bitshares Next.JS NFT Gallery](https://github.com/BTS-CM/NFT.next.js) - open source code for new galleries.
 * [Bit20s NFT Creator Tool](https://github.com/Bit20-Creative-Group/BitShares-NFT-Creator) - open source python NFT creation tool.
 * [Bit20s Pool Tool](https://github.com/Bit20-Creative-Group/PoolTool) - open source python based Bitshares liquidity pool tool.
+* [Beet API](https://github.com/BTS-CM/beet_api) - An ElysiaJS API used by the Bitshares DEX Astro UI.
 
 ## Projects Using the BitShares Blockchain
 
