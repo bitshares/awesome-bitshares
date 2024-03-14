@@ -166,6 +166,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [BitShares Mobile (BTS++)](https://github.com/bitshares/bitshares-mobile-app) - native Android/iOS app.
 * [BiTSy](https://git.agorise.net/agorise/bitsy-wallet) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Bitshares Beet](https://github.com/bitshares/beet) - A fully implemented multi-crypto wallet coded in vue3.
+* [BeetEOS](https://github.com/beetapp/beeteos) - A Beet wallet fork with additional chains and experimental features.
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
 * [EVRAZ Wallet](https://github.com/evraz-org/EVRAZ-smartphone-application) - Android app
 * [Ledger App](https://github.com/bitshares/ledger-app-bitshares) - Bitshares Wallet App for Ledger Nano S
