@@ -299,6 +299,7 @@ do your own research!
 * [StealthEx](https://stealthex.io)
 * [SwapSpace](https://swapspace.co)
 * [ioxbank](https://ioxbank.com)
+* [SecureShift](https://secureshift.io)
 
 ### Games
 
