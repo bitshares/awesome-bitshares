@@ -292,7 +292,6 @@ do your own research!
 
 ### Bridges
 
-* [BlockTrades](https://blocktrades.us)
 * [Exolix](https://exolix.com)
 * [GoDex](https://godex.io)
 * [SimpleSwap](https://simpleswap.io)
