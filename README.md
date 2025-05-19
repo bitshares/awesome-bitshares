@@ -68,6 +68,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [Docs.BitShares.EU](https://docs.bitshares.eu) - The primary documentation, maintained by the community, hosted by github. [Docs.bitshares.org](https://docs.bitshares.org) now redirects to this.
 * [Docs.BitShares.dev](https://docs.bitshares.dev) - The BitShares Developers Documentation Portal.
+* [Deepwiki](https://deepwiki.org/bitshares) - Interactive AI BitShares Github Documentation.
 * [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages.
 * [BitShares.Github.io/docs](https://bitshares.github.io/docs) - New documentation site, work in progress.
 * [BitShares-Core Wiki](https://github.com/bitshares/bitshares-core/wiki) - Documentation about the core software development and integration. 
