@@ -149,18 +149,18 @@ wallet.bitshares.org.
 
 There are some extended APIs provided by the community.
 
-* https://api.bitshares.ws/docs
+* ~~`https://api.bitshares.ws/docs`~~
 * https://api.bitshares.build/api-docs
 * https://market-api-v2.xbts.io
 * https://market-api-v1.xbts.io
-* https://api.testnet.bitshares.ws/docs - for the public testnet
+* ~~`https://api.testnet.bitshares.ws/docs - for the public testnet`~~
 
 ### Kibana and ElasticSearch Endpoints
 
 Kibana and ElasticSearch endpoints can be used to query blockchain data and perform visualizations.
 
 * kibana.bitshares.eu Down for maintenance.
-* [kibana.bts.mobi](https://kibana.bts.mobi) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/_count?pretty=true) for raw data).
+* [kibana.bitshares.dev](https://kibana.bitshares.dev) (and [es.bitshares.dev](https://es.bitshares.dev/bitshares-*/_count?pretty=true) for raw data).
 
 ### Opensource Wallets
 
