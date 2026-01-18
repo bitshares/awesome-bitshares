@@ -160,7 +160,7 @@ There are some extended APIs provided by the community.
 Kibana and ElasticSearch endpoints can be used to query blockchain data and perform visualizations.
 
 * kibana.bitshares.eu Down for maintenance.
-* [kibana.bts.mobi](https://kibana.bts.mobi) (and [es.bts.mobi](https://es.bts.mobi/bitshares-*/_count?pretty=true) for raw data).
+* [kibana.bitshares.dev](https://kibana.bitshares.dev) (and [es.bitshares.dev](https://es.bitshares.dev/bitshares-*/_count?pretty=true) for raw data).
 
 ### Opensource Wallets
 
