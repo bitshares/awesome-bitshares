@@ -213,6 +213,7 @@ your own research before using them.
 * [blocksights.info](https://blocksights.info) - supports both Mainnet and the public testnet. The back end is closed source, the front end is [open source](https://github.com/blocksights/blocksights-open-explorer). It is an improved version of the open-source BitShares blockchain explorer [open-explorer](https://github.com/bitshares/open-explorer).
 * [bitshareschain.com](https://www.bitshareschain.com/) - BitShares Blockchain explorer.
 * [bitshares.network](https://bitshares.network) - BitShares network information.
+* [bitshares-explorer.lovable.app](https://bitshares-explorer.lovable.app/) - BitShares Blockchain explorer.
 
 ## Libraries
 
