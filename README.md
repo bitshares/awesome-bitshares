@@ -101,7 +101,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
   * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
-  * [BitShares Investors](https://t.me/BitSharesInvestors) - For developers.
+  * [BitShares Investors](https://t.me/BitSharesInvestors) - For investors.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
   * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
@@ -133,7 +133,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [BitShares-Core](https://github.com/bitshares/bitshares-core/releases) - full node and command line tools
 * [BitShares-UI](https://github.com/bitshares/bitshares-ui/releases) - desktop light wallet
-* [BitShares Mobile App](https://app.btspp.io) - iOS and Android
+* [BitShares Mobile App](https://github.com/bitshares/bitshares-mobile-app/releases) - iOS and Android
 * [Media Kit](https://github.com/bitshares/marketing/tree/master/media-kit) - Logos, banners and etc
 
 ### Blockchain API
@@ -175,6 +175,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [Oases](https://github.com/huskcasaca/bitshares-oases-android) - Android app.
 * [Community UI](https://github.com/bitshares/bitshares-community-ui) - A partially implemented Bitshares web wallet coded with Vue2.
 * [Bitshares DEX Astro UI](https://github.com/BTS-CM/astro-ui) - A Bitshares DEX user interface implemented in React and Astro.
+* [BitShares Wallet Browser Extension](https://github.com/pi314x/bitshares-wallet-browser-extension) - Browser extension for the BitShares blockchain - similar to MetaMask but for BitShares DEX. Supports Chrome, Brave, and Firefox.
 
 ### Hosted Wallets
 
@@ -189,8 +190,9 @@ your own research before using them.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
 * [bts.exchange](https://bts.exchange) - BitSharesGroup.org hosted reference wallet.
 * [dev.bts.mobi](https://dev.bts.mobi) and [pr.bts.mobi](https://pr.bts.mobi) - Random in-development versions of bitshares-ui, publicly hosted on Github Pages ([dev](https://github.com/abitmore/dev.bts.mobi), [pr](https://github.com/abitmore/pr.bts.mobi)), published by Github Actions from [a fork of bitshares-ui](https://github.com/abitmore/bitshares-ui)
-* [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
 * [app.xbts.io](https://app.xbts.io) - New DeFi wallet with AMM liquidity pools
+* [trade.xbts.io](https://trade.xbts.io) - New XBTS trading UI
+* [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
 * [SwapBTS.com](https://swapbts.com) - Lightweight web wallet with many features, for mobile use
 * [BTWTY.com](https://wallet.btwty.com/) - New reference wallet hosted by the Bit20 group.
 * [BEOS BTS Wallet](https://bitshareswallet.beos.world/)
