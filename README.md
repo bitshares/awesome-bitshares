@@ -101,7 +101,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
   * [BitShares News](https://t.me/BitSharesNews) - BitShares News channel.
-  * [BitShares Investors](https://t.me/BitSharesInvestors) - For developers.
+  * [BitShares Investors](https://t.me/BitSharesInvestors) - For investors.
   * [BitShares Traders](https://t.me/Bitshares_Traders) - Focus on Trading.
   * [BitShares Node Admins](https://t.me/BTS_Node_Admins) - Provides server admins & interested parties with tech support.
   * [BitShares NFTs](https://t.me/BitSharesNFTs) - NFT (Non-fungible tokens) discussions.
