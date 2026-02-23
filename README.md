@@ -189,8 +189,9 @@ your own research before using them.
 * [develop.bitshares.org](https://develop.bitshares.org) - BitShares.org hosted reference wallet, latest in-development version.
 * [bts.exchange](https://bts.exchange) - BitSharesGroup.org hosted reference wallet.
 * [dev.bts.mobi](https://dev.bts.mobi) and [pr.bts.mobi](https://pr.bts.mobi) - Random in-development versions of bitshares-ui, publicly hosted on Github Pages ([dev](https://github.com/abitmore/dev.bts.mobi), [pr](https://github.com/abitmore/pr.bts.mobi)), published by Github Actions from [a fork of bitshares-ui](https://github.com/abitmore/bitshares-ui)
-* [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
 * [app.xbts.io](https://app.xbts.io) - New DeFi wallet with AMM liquidity pools
+* [trade.xbts.io](https://trade.xbts.io) - New XBTS trading UI
+* [m.magicw.net](https://m.magicw.net) - Web version of the MagicWallet Android/iOS app.
 * [SwapBTS.com](https://swapbts.com) - Lightweight web wallet with many features, for mobile use
 * [BTWTY.com](https://wallet.btwty.com/) - New reference wallet hosted by the Bit20 group.
 * [BEOS BTS Wallet](https://bitshareswallet.beos.world/)
