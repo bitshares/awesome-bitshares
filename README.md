@@ -133,7 +133,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 * [BitShares-Core](https://github.com/bitshares/bitshares-core/releases) - full node and command line tools
 * [BitShares-UI](https://github.com/bitshares/bitshares-ui/releases) - desktop light wallet
-* [BitShares Mobile App](https://app.btspp.io) - iOS and Android
+* [BitShares Mobile App](https://github.com/bitshares/bitshares-mobile-app/releases) - iOS and Android
 * [Media Kit](https://github.com/bitshares/marketing/tree/master/media-kit) - Logos, banners and etc
 
 ### Blockchain API
