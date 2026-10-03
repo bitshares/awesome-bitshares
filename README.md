@@ -66,9 +66,9 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Documentation
 
+* [Deepwiki](https://deepwiki.org/bitshares) - Interactive AI BitShares Github Documentation.
 * [Docs.BitShares.EU](https://docs.bitshares.eu) - The primary documentation, maintained by the community, hosted by github. [Docs.bitshares.org](https://docs.bitshares.org) now redirects to this.
 * [Docs.BitShares.dev](https://docs.bitshares.dev) - The BitShares Developers Documentation Portal.
-* [Deepwiki](https://deepwiki.org/bitshares) - Interactive AI BitShares Github Documentation.
 * [BitShares Build Docs](https://docs.bitshares.build) - Light prompt help pages.
 * [BitShares.Github.io/docs](https://bitshares.github.io/docs) - New documentation site, work in progress.
 * [BitShares-Core Wiki](https://github.com/bitshares/bitshares-core/wiki) - Documentation about the core software development and integration. 
@@ -82,6 +82,14 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 ### Community
 
 * [BitSharesTalk Forum](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013).
+* Telegram:
+  * [BitShares Development](https://t.me/BitSharesDEV) - A group for developers.
+  * [Decentralized BitShares Development](https://t.me/BTSDEXDEV) - Another group for developers.
+  * [DEXBot2](https://t.me/DEXBot_2) - For trading bots discussion.
+  * [BitShares Group](https://t.me/BitSharesGroup) - Group for general discussions.
+  * [BitShares DAC](https://t.me/BitSharesDAC) - Another group for general discussions.
+  * [BitShares Trade Alliance](https://t.me/btstraderalliance) - Another group.
+  * [BitShares 比特股中文社区](https://t.me/BitSharesDEXcn) - Group for Chinese-speaking people.
 * [Hive#bitshares](https://hive.blog/created/bitshares) - #bitshares tagged posts on the Hive blockchain.
 * [Hive: Bitshares community](https://peakd.com/c/hive-120117/created) - Community dedicated for Bitshares on the Hive blockchain.
 * [Twitter@BitSharesGroup](https://twitter.com/bitsharesgroup) - Content managed by BitSharesGroup.org owner.
@@ -92,11 +100,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [YouTube@BitSharesBlockchain](https://www.youtube.com/@BitSharesBlockchain)
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * [Whaleshares#bitshares](https://whaleshares.io/created/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain.
-* Telegram:
-  * [BitShares Group](https://t.me/BitSharesGroup) - Group for general discussions.
-  * [BitShares DAC](https://t.me/BitSharesDAC) - Another group for general discussions.
-  * [BitShares 比特股中文社区](https://t.me/BitSharesDEXcn) - Group for Chinese speaking people.
-  * [BitShares Development](https://t.me/BitSharesDEV) - For developers.
+* Other Telegram Groups:
   * [BitShares Wallet](https://t.me/BitSharesWallet) - Focus on BitShares reference wallet.
   * [BitShares Wallet Help](https://t.me/btsWalletHelp) - Web-based wallet & desktop wallet support.
   * [BitShares Mobile](https://t.me/btsplusplus) - Focus on BitShares mobile app.
@@ -110,9 +114,6 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [PoolTool](https://t.me/pooltool_community_edition) - Dicussions about PoolTool.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
   * [DEXBot](https://t.me/DEXBOTbts) - Original DEXBot Group.
-  * [DEXBot2](https://t.me/DEXBot_2) - New DEXBot2 Group.
-  * Committee - (invite only) For committee members.
-  * Witnesses - (invite only) For block producers.
 * [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
 * WeChat Groups - Please ask for invitations in the Chinese Telegram group https://t.me/BitSharesDEXcn
 
@@ -168,7 +169,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [BitShares Mobile (BTS++)](https://github.com/bitshares/bitshares-mobile-app) - native Android/iOS app.
 * [BiTSy](https://git.agorise.net/agorise/bitsy-wallet) - native Android wallet with Merchants/Tellers map, in 104 languages.
 * [Bitshares Beet](https://github.com/bitshares/beet) - A fully implemented multi-crypto wallet coded in vue3.
-* [BeetEOS](https://github.com/beetapp/beeteos) - A Beet wallet fork with additional chains and experimental features.
+* [BeetVault](https://github.com/beetapp/beetvault) - A Beet wallet fork with additional chains and experimental features.
 * [Citadel Desktop Wallet](https://github.com/jhtitor/citadel) - desktop wallet written in Python
 * [EVRAZ Wallet](https://github.com/evraz-org/EVRAZ-smartphone-application) - Android app
 * [Ledger App](https://github.com/bitshares/ledger-app-bitshares) - Bitshares Wallet App for Ledger Nano S
@@ -177,6 +178,7 @@ Kibana and ElasticSearch endpoints can be used to query blockchain data and perf
 * [Bitshares DEX Astro UI](https://github.com/BTS-CM/astro-ui) - A Bitshares DEX user interface implemented in React and Astro.
 * [Bitshares Prediction Market Asset UI](https://github.com/BTS-CM/pma) - An application dedicated to prediction market asset functionality on the Bitshares DEX.
 * [BitShares Wallet Browser Extension](https://github.com/pi314x/bitshares-wallet-browser-extension) - Browser extension for the BitShares blockchain - similar to MetaMask but for BitShares DEX. Supports Chrome, Brave, and Firefox.
+* [BitShares Vanilla UI](https://github.com/litepresence/bitshares-vanilla-ui)
 
 ### Hosted Wallets
 
