@@ -218,7 +218,8 @@ your own research before using them.
 * [bitshareschain.com](https://www.bitshareschain.com) - BitShares Blockchain explorer.
 * [bitshares.network](https://bitshares.network) - BitShares network information.
 * [BTS Lens](https://btslens.pages.dev) - BitShares Blockchain explorer.
-* [bitshares-explorer.lovable.app](https://bitshares-explorer.lovable.app) - BitShares Blockchain explorer.
+* [bitshares-explorer.lovable.app](https://bitshares-explorer.lovable.app) - An [open source](https://github.com/abitmore/lovable-bitshares-explorer) & simple BitShares Blockchain explorer.
+* [BitSharesScan](https://bitsharescan.deed.page) - An [open source](https://github.com/xiao93/bitsharescan) Etherscan style BitShares Blockchain explorer with many features.
 
 ## Libraries
 
